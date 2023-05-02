@@ -1,22 +1,194 @@
 {
-    "sections": {
-        "hero": {
-            "type": "hero",
-            "settings": {
-                "image": "",
-                "title": "Welcome To Elena",
-                "description": "<p>We are happy to welcome you to our official store</p>",
-                "button_label": "Learn more",
-                "button_link": "https:\/\/google.com\/"
-            }
+  "sections": {
+    "118fd374-1586-4eef-8b49-395697bcaf96": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16560294494436__118fd374-1586-4eef-8b49-395697bcaf96-1665048675e4d580ba-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1.jpg",
+            "heading": "VC14 AEROMAX ELITE",
+            "heading_size": "h1",
+            "subheading": "Powerful Suction when you need it most!",
+            "button_label": "LEARN MORE",
+            "link": "shopify:\/\/products\/vc14",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
         },
-        "featured-collection": {
-            "type": "featured-collection",
-            "settings": {
-                "featured_collection": "summer-collection",
-                "title": "Featured Summer Collection"
-            }
+        "template--16560294494436__118fd374-1586-4eef-8b49-395697bcaf96-1665048675e4d580ba-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/10_small_77b4a42b-7745-40a1-9bde-fa72b08e5f1e.jpg",
+            "heading": "FC20 ULTAMAX PRO",
+            "heading_size": "h1",
+            "subheading": "3-in-1 CORDLESS for Home or Small Offices",
+            "button_label": "LEARN MORE",
+            "link": "shopify:\/\/products\/fc20",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
         }
+      },
+      "block_order": [
+        "template--16560294494436__118fd374-1586-4eef-8b49-395697bcaf96-1665048675e4d580ba-0",
+        "template--16560294494436__118fd374-1586-4eef-8b49-395697bcaf96-1665048675e4d580ba-1"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
     },
-    "order": ["hero","featured-collection"]
+    "video": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "cover_image": "shopify:\/\/shop_images\/VC14_thumbnail_b0dd945e-fa56-425e-a90d-e9a3e4b6cbff.jpg",
+        "video_url": "39GJcEgvdus",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "4c910115-e210-469d-acc6-78d2b21d6821": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16560275685604__4c910115-e210-469d-acc6-78d2b21d6821-1665463220adc3a2b9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "VC14 AEROMAX ELITE",
+            "heading_size": "h2"
+          }
+        },
+        "template--16560275685604__4c910115-e210-469d-acc6-78d2b21d6821-1665463220adc3a2b9-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>CORDLESS VAC<\/strong><\/p><p><strong>✓ <\/strong>Extreme Suction <\/p><p><strong>✓<\/strong> 2-in-1 Cordless Stick Vacuum<\/p><p><strong>✓ <\/strong>Advanced Technology<\/p><p><strong>✓ <\/strong>EZ-Click Hi-Capacity Battery<\/p><p><strong>✓ <\/strong>Innovative Multi-Surface<\/p><p><strong>✓ <\/strong>Hi-Performance Motorized Tools<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16560275685604__4c910115-e210-469d-acc6-78d2b21d6821-1665463220adc3a2b9-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "EXPLORER MORE",
+            "button_link": "shopify:\/\/products\/vc14"
+          }
+        }
+      },
+      "block_order": [
+        "template--16560275685604__4c910115-e210-469d-acc6-78d2b21d6821-1665463220adc3a2b9-0",
+        "template--16560275685604__4c910115-e210-469d-acc6-78d2b21d6821-1665463220adc3a2b9-1",
+        "template--16560275685604__4c910115-e210-469d-acc6-78d2b21d6821-1665463220adc3a2b9-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/2BD1_0077_6e18fd49-8dc6-40e4-b28f-c3dba8579a90.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "91793dab-7ab4-42b7-8362-b11346a2b207": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16560275685604__91793dab-7ab4-42b7-8362-b11346a2b207-1665463220adc3a2b9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "FC20 ULTAMAX PRO",
+            "heading_size": "h2"
+          }
+        },
+        "template--16560275685604__91793dab-7ab4-42b7-8362-b11346a2b207-1665463220adc3a2b9-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Nex-Level Pro-Series 3-in-1 CORDLESS for<br\/>Home or Small Offices<\/strong><\/p><p><strong>✓<\/strong>Hard Floor Power Scrub Cleaner<\/p><p><strong>✓<\/strong>EZ-Spot & Spray Cleaner<\/p><p><strong>✓<\/strong>Vacuum Cleaner<\/p><p><strong>✓<\/strong>Commercial Grade Metal Side Supports<\/p><p><strong>✓<\/strong>Hi-Capacity EZ-Change<\/p><p><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16560275685604__91793dab-7ab4-42b7-8362-b11346a2b207-1665463220adc3a2b9-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "EXPLORE MORE",
+            "button_link": "shopify:\/\/products\/fc20"
+          }
+        }
+      },
+      "block_order": [
+        "template--16560275685604__91793dab-7ab4-42b7-8362-b11346a2b207-1665463220adc3a2b9-0",
+        "template--16560275685604__91793dab-7ab4-42b7-8362-b11346a2b207-1665463220adc3a2b9-1",
+        "template--16560275685604__91793dab-7ab4-42b7-8362-b11346a2b207-1665463220adc3a2b9-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BD1_0077.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Accessories products",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "accessories",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 28,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "118fd374-1586-4eef-8b49-395697bcaf96",
+    "video",
+    "4c910115-e210-469d-acc6-78d2b21d6821",
+    "91793dab-7ab4-42b7-8362-b11346a2b207",
+    "featured_collection"
+  ]
 }
