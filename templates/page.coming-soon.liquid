@@ -1,4 +1,23 @@
 {%- style -%}
+input[type="email"]::placeholder {
+  color: #000; /* change this to the color you want */
+  opacity: 0.4; /* Firefox */
+}
+
+css
+Copy code
+input[type="email"]:focus {
+  outline: none;
+  border: none;
+  margin-bottom: 3rem; /* adjust as necessary */
+}
+
+.input-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
   /* hide header navigation */
   .header__inline-menu {
     display: none !important;
@@ -51,6 +70,25 @@
     margin-bottom: 3rem;
   }
 
+  .button.button-primary{
+    font-size: 1.4rem; /* adjust to your desired size */
+    font-family: 'Honeywell-Bold';
+    box-sizing: border-box;
+    padding: 15px 5px;
+    height: 52px;
+    line-height: 18px;
+    outline: none;
+    overflow: visible;
+    padding: 15px 5px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 220px;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    justify-content: center;
+    align-items: center;
+  }
+
   @media (max-width: 480px) {
     .title {
       font-size: 2rem;
@@ -85,12 +123,33 @@
     <div>
       <p>If you want to get notified when the website goes live, please subscribe to our mailing list!</p>
     </div>
-    <div>
-      <input type="email" placeholder="Email address" required>
-    </div>
-    <div>
-      <button class="button button-primary">Notify Me!</button>
-    </div>
+      <div>
+        {% form 'customer' %}
+        <div class="input-group">
+          <input
+            id="NewsletterForm"
+            type="email"
+            name="contact[email]"
+            value="{{ form.email }}"
+            aria-required="true"
+            autocorrect="off"
+            autocapitalize="off"
+            autocomplete="email"
+            placeholder="Email address"
+            required
+          >
+          <button type="submit" class="button button-primary" name="commit" id="NotifyMe">
+            NOTIFY ME
+          </button>
+        </div>
+        {%- if form.errors -%}
+          <small class="newsletter-form__message form__message" id="ContactFooter-error">{% render 'icon-error' %}{{ form.errors.translated_fields['email'] | capitalize }} {{ form.errors.messages['email'] }}</small>
+        {%- endif -%}
+      </div>
+      {%- if form.posted_successfully? -%}
+        <h3 class="newsletter-form__message newsletter-form__message--success form__message" id="ContactFooter-success" tabindex="-1" autofocus>{% render 'icon-success' %}{{ 'newsletter.success'}}</h3>
+      {%- endif -%}
+    {% endform %}
   </div>
 </body>
 </html>
