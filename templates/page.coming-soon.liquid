@@ -4,8 +4,15 @@ input[type="email"]::placeholder {
   opacity: 0.4; /* Firefox */
 }
 
-css
-Copy code
+.success-message {
+  margin-top: 10rem;
+}
+
+.success-message svg {
+  width: 24px;  /* adjust as necessary */
+  height: 24px; /* adjust as necessary */
+}
+
 input[type="email"]:focus {
   outline: none;
   border: none;
@@ -58,9 +65,10 @@ input[type="email"]:focus {
   }
   .title {
     font-size: 3.5rem;
-    margin: 10rem 18rem 3rem 18rem;
+    margin: 8rem 18rem 3rem 18rem;
     color: #DC202E;
   }
+
   p {
     font-size: 2rem;
     margin-bottom: 3rem;
@@ -117,6 +125,11 @@ input[type="email"]:focus {
 </head>
 <body>
   <div class="coming-soon-container">
+    {%- if form.posted_successfully? -%}
+    <h3 class="success-message" id="ContactFooter-success" tabindex="-1" autofocus>{% render 'icon-success' %}Subscribe Success</h3>
+  {%- endif -%}
+        
+
     <div>
       <h1 class="title h1">High Tech, Innovative Cordless Vacuum & Floor Cleaners Coming Soon.</h1>
     </div>
@@ -146,9 +159,6 @@ input[type="email"]:focus {
           <small class="newsletter-form__message form__message" id="ContactFooter-error">{% render 'icon-error' %}{{ form.errors.translated_fields['email'] | capitalize }} {{ form.errors.messages['email'] }}</small>
         {%- endif -%}
       </div>
-      {%- if form.posted_successfully? -%}
-        <h3 class="newsletter-form__message newsletter-form__message--success form__message" id="ContactFooter-success" tabindex="-1" autofocus>{% render 'icon-success' %}{{ 'newsletter.success'}}</h3>
-      {%- endif -%}
     {% endform %}
   </div>
 </body>
