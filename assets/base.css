@@ -1,5 +1,10 @@
 /*temp header */
-
+  .header__inline-menu {
+    display: none !important;
+  }
+  .header__icons{
+    display: none !important;
+  }
 
 /* customfont */
 
