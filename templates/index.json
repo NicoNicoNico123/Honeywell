@@ -54,29 +54,16 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "c0d7bcff-dd6e-46d5-af77-3014fe497739": {
-      "type": "featured-collection",
+    "video": {
+      "type": "video",
       "settings": {
-        "title": "Featured collection",
+        "heading": "",
         "heading_size": "h1",
+        "cover_image": "shopify:\/\/shop_images\/VC14_thumbnail_b0dd945e-fa56-425e-a90d-e9a3e4b6cbff.jpg",
+        "video_url": "39GJcEgvdus",
         "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "",
-        "products_to_show": 4,
-        "columns_desktop": 4,
         "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
         "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -168,12 +155,40 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Accessories products",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "accessories",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 28,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "118fd374-1586-4eef-8b49-395697bcaf96",
-    "c0d7bcff-dd6e-46d5-af77-3014fe497739",
+    "video",
     "4c910115-e210-469d-acc6-78d2b21d6821",
-    "91793dab-7ab4-42b7-8362-b11346a2b207"
+    "91793dab-7ab4-42b7-8362-b11346a2b207",
+    "featured_collection"
   ]
 }
