@@ -1,5 +1,32 @@
 {
   "sections": {
+    "c7674ed7-34a6-4d58-83e1-1c1bd74d5a87": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Vacuums Collection",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "frontpage",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "118fd374-1586-4eef-8b49-395697bcaf96": {
       "type": "slideshow",
       "blocks": {
@@ -52,20 +79,6 @@
         "change_slides_speed": 5,
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
-      }
-    },
-    "video": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/VC14_thumbnail_b0dd945e-fa56-425e-a90d-e9a3e4b6cbff.jpg",
-        "video_url": "39GJcEgvdus",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "4c910115-e210-469d-acc6-78d2b21d6821": {
@@ -185,8 +198,8 @@
     }
   },
   "order": [
+    "c7674ed7-34a6-4d58-83e1-1c1bd74d5a87",
     "118fd374-1586-4eef-8b49-395697bcaf96",
-    "video",
     "4c910115-e210-469d-acc6-78d2b21d6821",
     "91793dab-7ab4-42b7-8362-b11346a2b207",
     "featured_collection"
