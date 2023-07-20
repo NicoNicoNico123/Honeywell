@@ -56,6 +56,7 @@
     },
     "c7674ed7-34a6-4d58-83e1-1c1bd74d5a87": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Vacuums Collection",
         "heading_size": "h1",
@@ -94,7 +95,7 @@
         "template--16560275685604__4c910115-e210-469d-acc6-78d2b21d6821-1665463220adc3a2b9-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>CORDLESS VAC<\/strong><\/p><p><strong>✓ <\/strong>Extreme Suction <\/p><p><strong>✓<\/strong> 2-in-1 Cordless Stick Vacuum<\/p><p><strong>✓ <\/strong>Advanced Technology<\/p><p><strong>✓ <\/strong>EZ-Click Hi-Capacity Battery<\/p><p><strong>✓ <\/strong>Innovative Multi-Surface<\/p><p><strong>✓ <\/strong>Hi-Performance Motorized Tools<\/p>",
+            "text": "<p><strong>Vacuum Cleaners<\/strong><\/p><p>Discover the future of cleaning with Honeywell cordless stick vacuums. Powerful suction, lightweight design, and effortless maneuverability redefine your cleaning experience. Choose from our range of models to find the perfect fit for your needs. Upgrade to our cutting-edge vacuum cleaners and revolutionize your cleaning routine today.<\/p>",
             "text_style": "body"
           }
         },
