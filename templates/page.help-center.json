@@ -1,54 +1,26 @@
 {
   "sections": {
-    "6145e505-2605-45d2-af30-92415aceb300": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "15d97bfb-8db8-4470-ab00-76700779d868": {
       "type": "collapsible-content",
       "blocks": {
-        "template--16565017182436__6145e505-2605-45d2-af30-92415aceb300-1665105893fc96a82e-0": {
+        "template--16725795307748__15d97bfb-8db8-4470-ab00-76700779d868-collapsible_row-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "General Owner Resources",
-            "icon": "clipboard",
-            "row_content": "<p>Owner's Manual<\/p>",
-            "page": ""
-          }
-        },
-        "template--16565017182436__6145e505-2605-45d2-af30-92415aceb300-1665105893fc96a82e-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Dasher Owner Tools",
-            "icon": "clipboard",
+            "heading": "Problem with your machine?",
+            "icon": "none",
             "row_content": "",
             "page": ""
           }
         },
-        "template--16565017182436__6145e505-2605-45d2-af30-92415aceb300-1665105893fc96a82e-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Features & Technology",
-            "icon": "clipboard",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "template--16565017182436__6145e505-2605-45d2-af30-92415aceb300-1665105893fc96a82e-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Battery & Battery Care",
-            "icon": "clipboard",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "27049f6c-45f1-4b45-bc68-ef8b761d922d": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Safety",
-            "icon": "clipboard",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "1784dda9-a30c-49c7-b5c5-793109c34fb5": {
+        "template--16725795307748__15d97bfb-8db8-4470-ab00-76700779d868-collapsible_row-2": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Collapsible row",
@@ -57,10 +29,19 @@
             "page": ""
           }
         },
-        "b94a66f5-74fa-49aa-bd78-c9e82c52864a": {
+        "template--16725795307748__15d97bfb-8db8-4470-ab00-76700779d868-collapsible_row-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Shipping and Payment",
+            "heading": "Collapsible row",
+            "icon": "clipboard",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--16725795307748__15d97bfb-8db8-4470-ab00-76700779d868-collapsible_row-4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
             "icon": "clipboard",
             "row_content": "",
             "page": ""
@@ -68,40 +49,29 @@
         }
       },
       "block_order": [
-        "template--16565017182436__6145e505-2605-45d2-af30-92415aceb300-1665105893fc96a82e-0",
-        "template--16565017182436__6145e505-2605-45d2-af30-92415aceb300-1665105893fc96a82e-1",
-        "template--16565017182436__6145e505-2605-45d2-af30-92415aceb300-1665105893fc96a82e-2",
-        "template--16565017182436__6145e505-2605-45d2-af30-92415aceb300-1665105893fc96a82e-3",
-        "27049f6c-45f1-4b45-bc68-ef8b761d922d",
-        "1784dda9-a30c-49c7-b5c5-793109c34fb5",
-        "b94a66f5-74fa-49aa-bd78-c9e82c52864a"
+        "template--16725795307748__15d97bfb-8db8-4470-ab00-76700779d868-collapsible_row-1",
+        "template--16725795307748__15d97bfb-8db8-4470-ab00-76700779d868-collapsible_row-2",
+        "template--16725795307748__15d97bfb-8db8-4470-ab00-76700779d868-collapsible_row-3",
+        "template--16725795307748__15d97bfb-8db8-4470-ab00-76700779d868-collapsible_row-4"
       ],
       "settings": {
         "caption": "",
-        "heading": "",
+        "heading": "Collapsible content",
         "heading_size": "h1",
-        "heading_alignment": "left",
-        "layout": "row",
-        "color_scheme": "background-2",
-        "container_color_scheme": "accent-2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "main": {
-      "type": "main-page",
-      "disabled": true,
-      "settings": {
-        "padding_top": 28,
-        "padding_bottom": 28
-      }
     }
   },
   "order": [
-    "6145e505-2605-45d2-af30-92415aceb300",
-    "main"
+    "main",
+    "15d97bfb-8db8-4470-ab00-76700779d868"
   ]
 }
