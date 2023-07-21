@@ -29,6 +29,7 @@
         },
         "cd8603d8-eca0-438b-8556-b773bc4791c2": {
           "type": "shopify:\/\/apps\/product-reviews\/blocks\/star_rating\/bae150af-8da8-48b2-9867-398188115e5f",
+          "disabled": true,
           "settings": {
             "stars_fill_color": "#ffea00",
             "star_size": 15,
@@ -602,6 +603,7 @@
     },
     "16653705981278b04d": {
       "type": "apps",
+      "disabled": true,
       "blocks": {
         "954ac3dd-9a1b-4522-a6f8-fe509bcf63e8": {
           "type": "shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f",
