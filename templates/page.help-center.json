@@ -67,8 +67,8 @@
           "settings": {
             "heading": "Vacuum Cleaners",
             "icon": "none",
-            "row_content": "",
-            "page": ""
+            "row_content": "<p>VC10<\/p>",
+            "page": "contact"
           }
         },
         "template--16725795307748__9063cc10-6897-4e75-81de-7cf13dd1d7fb-collapsible_row-2": {
