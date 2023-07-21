@@ -75,7 +75,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Wet\/ DryFloor Cleaners",
-            "icon": "clipboard",
+            "icon": "none",
             "row_content": "",
             "page": ""
           }
