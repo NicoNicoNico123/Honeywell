@@ -164,8 +164,8 @@
           "3806b5d3-bd95-4a81-9abe-deeda4d0fac4"
         ],
         "custom_css": [
-          ".grid__item {flex: 0 0 auto; \/* Make the width of each item only as large as needed *\/ width: auto; \/* Reset the width to automatic *\/ max-width: 200px; \/* Set a maximum width for each column *\/ padding: 0 10px;}",
-          ".footer-block--newsletter,.footer__blocks-wrapper.grid.grid--1-col.grid--2-col.grid--4-col-tablet {flex: 1 0 auto; \/* This allows each block to grow and shrink as needed *\/}"
+          ".footer__blocks-wrapper {display: flex; flex-wrap: wrap;}",
+          ".footer-block {flex: 1 0 auto; }"
         ],
         "settings": {
           "color_scheme": "accent-1",
