@@ -360,6 +360,16 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "4bff166e-4334-4286-aaf8-9579317651b0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HONEYWELL_FC20_11.png",
+            "title": "",
+            "text": "<p>Deep Clean with Powerful Motor<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -373,7 +383,8 @@
         "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-0",
         "4a68a926-e688-4616-a579-85a33825a1dc",
         "e2d0f502-eb08-4d54-aace-7d7ab8c2730b",
-        "510b76ef-9df0-41dc-b62d-521559730c56"
+        "510b76ef-9df0-41dc-b62d-521559730c56",
+        "4bff166e-4334-4286-aaf8-9579317651b0"
       ],
       "settings": {
         "title": "Key Feature",
