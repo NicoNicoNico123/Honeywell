@@ -164,7 +164,7 @@
           "3806b5d3-bd95-4a81-9abe-deeda4d0fac4"
         ],
         "custom_css": [
-          ".footer-block {width: 80%; \/* or any other percentage *\/ margin: 0 auto; \/* this centers the block *\/}"
+          ".footer-block {width: 30%; \/* or any other percentage *\/ margin: 0 auto; \/* this centers the block *\/}"
         ],
         "settings": {
           "color_scheme": "accent-1",
