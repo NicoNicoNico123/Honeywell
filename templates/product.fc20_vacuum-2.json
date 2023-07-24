@@ -281,12 +281,22 @@
             "link": ""
           }
         },
-        "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-2": {
+        "b663fed6-dd94-439d-974b-b908ad3287b9": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/HONEYWELL_FC20_05_34eb6e6c-9556-4d04-81c0-1d62ef528cc9.png",
+            "image": "shopify:\/\/shop_images\/Sprayer_04fcab75-822d-4af8-89ce-b10778a5873e.jpg",
             "title": "",
             "text": "<p>Precision Spray & Power Scrub<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "f6165712-5fb2-42a2-b14e-c0d64d1f9c08": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HONEYWELL_FC20_04.png",
+            "title": "",
+            "text": "<p>Power Scrub with Soft Roller<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -301,17 +311,44 @@
             "link": ""
           }
         },
-        "b663fed6-dd94-439d-974b-b908ad3287b9": {
+        "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Sprayer_04fcab75-822d-4af8-89ce-b10778a5873e.jpg",
+            "image": "shopify:\/\/shop_images\/HONEYWELL_FC20_05_34eb6e6c-9556-4d04-81c0-1d62ef528cc9.png",
             "title": "",
-            "text": "<p>Precision Spray & Power Scrub<\/p>",
+            "text": "<p>Easy Store and Charge<\/p>",
             "link_label": "",
             "link": ""
           }
         },
-        "f6165712-5fb2-42a2-b14e-c0d64d1f9c08": {
+        "5d4a6e9e-c23d-478e-b2d6-33b9edfc2275": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "4a68a926-e688-4616-a579-85a33825a1dc": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "e2d0f502-eb08-4d54-aace-7d7ab8c2730b": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "510b76ef-9df0-41dc-b62d-521559730c56": {
           "type": "column",
           "settings": {
             "title": "Column",
@@ -325,10 +362,14 @@
         "522f87bf-8493-4da2-b043-6261692ba9fe",
         "877deb02-da83-4cc8-b9b4-db9bb3884cae",
         "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-1",
-        "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-2",
-        "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-0",
         "b663fed6-dd94-439d-974b-b908ad3287b9",
-        "f6165712-5fb2-42a2-b14e-c0d64d1f9c08"
+        "f6165712-5fb2-42a2-b14e-c0d64d1f9c08",
+        "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-0",
+        "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-2",
+        "5d4a6e9e-c23d-478e-b2d6-33b9edfc2275",
+        "4a68a926-e688-4616-a579-85a33825a1dc",
+        "e2d0f502-eb08-4d54-aace-7d7ab8c2730b",
+        "510b76ef-9df0-41dc-b62d-521559730c56"
       ],
       "settings": {
         "title": "Key Feature",
