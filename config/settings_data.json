@@ -158,7 +158,7 @@
         ],
         "settings": {
           "color_scheme": "accent-1",
-          "newsletter_enable": false,
+          "newsletter_enable": true,
           "newsletter_heading": "Newsletter",
           "show_social": false,
           "enable_country_selector": false,
