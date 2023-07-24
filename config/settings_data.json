@@ -146,15 +146,22 @@
         "blocks": {
           "footer-0": {
             "type": "link_list",
-            "disabled": true,
             "settings": {
               "heading": "OUR VACUUMS",
               "menu": "main-menu"
             }
+          },
+          "3806b5d3-bd95-4a81-9abe-deeda4d0fac4": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Quick links",
+              "menu": "footer"
+            }
           }
         },
         "block_order": [
-          "footer-0"
+          "footer-0",
+          "3806b5d3-bd95-4a81-9abe-deeda4d0fac4"
         ],
         "settings": {
           "color_scheme": "accent-1",
