@@ -103,7 +103,7 @@
           "type": "button",
           "settings": {
             "button_label": "EXPLORER MORE",
-            "button_link": "shopify:\/\/products\/vc14"
+            "button_link": "shopify:\/\/collections\/frontpage"
           }
         }
       },
@@ -147,7 +147,7 @@
           "type": "button",
           "settings": {
             "button_label": "EXPLORE MORE",
-            "button_link": "shopify:\/\/products\/fc20"
+            "button_link": "shopify:\/\/collections\/wet-dry-floor-cleaners"
           }
         }
       },
