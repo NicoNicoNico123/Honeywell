@@ -284,7 +284,7 @@
         "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/intelligentVoice_93bcab5f-83b0-44d5-99fd-e4a4b24d4ee9.jpg",
+            "image": "shopify:\/\/shop_images\/HONEYWELL_FC20_05_34eb6e6c-9556-4d04-81c0-1d62ef528cc9.png",
             "title": "",
             "text": "<p>Precision Spray & Power Scrub<\/p>",
             "link_label": "",
@@ -310,6 +310,15 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "f6165712-5fb2-42a2-b14e-c0d64d1f9c08": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -318,7 +327,8 @@
         "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-1",
         "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-2",
         "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-0",
-        "b663fed6-dd94-439d-974b-b908ad3287b9"
+        "b663fed6-dd94-439d-974b-b908ad3287b9",
+        "f6165712-5fb2-42a2-b14e-c0d64d1f9c08"
       ],
       "settings": {
         "title": "Key Feature",
