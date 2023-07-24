@@ -344,8 +344,9 @@
         "e2d0f502-eb08-4d54-aace-7d7ab8c2730b": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/HONEYWELL_FC20_08_dff2e2c6-3705-45df-b4da-3a3e4b88290f.png",
+            "title": "",
+            "text": "<p>Patent Pending Design<br\/>Easily Separates Wet & Dry Waste<\/p>",
             "link_label": "",
             "link": ""
           }
