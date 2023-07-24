@@ -437,6 +437,80 @@
         "padding_bottom": 36
       }
     },
+    "b4b82444-8e29-4d6b-b2c7-57612d67ba79": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": " Specifications",
+            "icon": "none",
+            "row_content": "<p><strong>Type<\/strong> Cordless Floor Cleaner<br\/><strong>Color <\/strong>Graphite<br\/><strong>Voltage<\/strong> 28.8V<br\/><strong>Battery<\/strong> High Capacity Li-ion<br\/><strong>Motor<\/strong> Synchronized Digital Wet & Dry Motor<br\/><strong>Powe<\/strong>r ~300W (250W Motor + 50W Motorized Power Scrub Roller)<br\/><strong>Filter<\/strong> Wet & Dry Filter + Sponge<br\/><strong>LED Display<\/strong> Yes<br\/><strong>Charging Time<\/strong> ~3-4 hours<br\/><strong>Running Time<\/strong> up to 35 minutes<br\/><strong>Clean Water Tank Volume<\/strong> 0.8L<br\/><strong>Dirty Water Tank Volum<\/strong>e 0.7L<br\/><strong>Certifications <\/strong>ETL\/cETL<\/p>",
+            "page": ""
+          }
+        },
+        "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Details",
+            "icon": "none",
+            "row_content": "<p>~up to 35 min<\/p>",
+            "page": ""
+          }
+        },
+        "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Inthe Box",
+            "icon": "none",
+            "row_content": "<p>Wet & Dry HEPA + Sponge<\/p>",
+            "page": ""
+          }
+        },
+        "76ac5f8c-ad4b-428d-857a-b7594aec3449": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Dimensions\/Weights",
+            "icon": "none",
+            "row_content": "<p>250W SyncroMax™  Wet & Dry Motor – better suction & cleaning <strong>+ 50W <\/strong>Motorized Power Scrub Roller for deeper cleaning<\/p>",
+            "page": ""
+          }
+        },
+        "f78ca53c-49fa-4db8-b9cd-eb39220e5077": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Warranty\/UserManual",
+            "icon": "none",
+            "row_content": "<p><strong>LIMITED WARRANTY (USA & CANADA)<\/strong><br\/>Parts & Labor 2 years<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-0",
+        "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-1",
+        "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-2",
+        "76ac5f8c-ad4b-428d-857a-b7594aec3449",
+        "f78ca53c-49fa-4db8-b9cd-eb39220e5077"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Specifications",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-1",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "473c6e2e-5d90-488c-8e56-8d8a46a03757": {
       "type": "multi_accessories",
       "blocks": {
@@ -557,80 +631,6 @@
         "padding_bottom": 36
       }
     },
-    "b4b82444-8e29-4d6b-b2c7-57612d67ba79": {
-      "type": "collapsible-content",
-      "blocks": {
-        "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-0": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": " Specifications",
-            "icon": "none",
-            "row_content": "<p><strong>Type<\/strong> Cordless Floor Cleaner<br\/><strong>Color <\/strong>Graphite<br\/><strong>Voltage<\/strong> 28.8V<br\/><strong>Battery<\/strong> High Capacity Li-ion<br\/><strong>Motor<\/strong> Synchronized Digital Wet & Dry Motor<br\/><strong>Powe<\/strong>r ~300W (250W Motor + 50W Motorized Power Scrub Roller)<br\/><strong>Filter<\/strong> Wet & Dry Filter + Sponge<br\/><strong>LED Display<\/strong> Yes<br\/><strong>Charging Time<\/strong> ~3-4 hours<br\/><strong>Running Time<\/strong> up to 35 minutes<br\/><strong>Clean Water Tank Volume<\/strong> 0.8L<br\/><strong>Dirty Water Tank Volum<\/strong>e 0.7L<br\/><strong>Certifications <\/strong>ETL\/cETL<\/p>",
-            "page": ""
-          }
-        },
-        "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Details",
-            "icon": "none",
-            "row_content": "<p>~up to 35 min<\/p>",
-            "page": ""
-          }
-        },
-        "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Inthe Box",
-            "icon": "none",
-            "row_content": "<p>Wet & Dry HEPA + Sponge<\/p>",
-            "page": ""
-          }
-        },
-        "76ac5f8c-ad4b-428d-857a-b7594aec3449": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Dimensions\/Weights",
-            "icon": "none",
-            "row_content": "<p>250W SyncroMax™  Wet & Dry Motor – better suction & cleaning <strong>+ 50W <\/strong>Motorized Power Scrub Roller for deeper cleaning<\/p>",
-            "page": ""
-          }
-        },
-        "f78ca53c-49fa-4db8-b9cd-eb39220e5077": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Warranty\/UserManual",
-            "icon": "none",
-            "row_content": "<p>4 Hours<\/p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-0",
-        "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-1",
-        "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-2",
-        "76ac5f8c-ad4b-428d-857a-b7594aec3449",
-        "f78ca53c-49fa-4db8-b9cd-eb39220e5077"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "caption": "",
-        "heading": "Specifications",
-        "heading_size": "h2",
-        "heading_alignment": "left",
-        "layout": "none",
-        "color_scheme": "background-1",
-        "container_color_scheme": "background-1",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "4fa12abf-b1ce-471e-998a-851be4572175": {
       "type": "rich-text",
       "blocks": {
@@ -700,8 +700,8 @@
     "8caf4f28-7549-41ab-acd1-d038e0939ede",
     "d07de62e-e9f8-4439-8fb2-0d03abd21571",
     "3b995f87-544a-4a04-951a-ebbcf9ffa94e",
-    "473c6e2e-5d90-488c-8e56-8d8a46a03757",
     "b4b82444-8e29-4d6b-b2c7-57612d67ba79",
+    "473c6e2e-5d90-488c-8e56-8d8a46a03757",
     "4fa12abf-b1ce-471e-998a-851be4572175",
     "product-recommendations",
     "16653705981278b04d"
