@@ -37,12 +37,22 @@
             "row_content": "",
             "page": ""
           }
+        },
+        "9e0318cc-424b-49d7-b5b4-6291a98a2635": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are your terms of service?",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "template--16725795307748__15d97bfb-8db8-4470-ab00-76700779d868-collapsible_row-1",
         "template--16725795307748__15d97bfb-8db8-4470-ab00-76700779d868-collapsible_row-2",
-        "template--16725795307748__15d97bfb-8db8-4470-ab00-76700779d868-collapsible_row-3"
+        "template--16725795307748__15d97bfb-8db8-4470-ab00-76700779d868-collapsible_row-3",
+        "9e0318cc-424b-49d7-b5b4-6291a98a2635"
       ],
       "settings": {
         "caption": "",
