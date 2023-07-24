@@ -164,7 +164,9 @@
           "3806b5d3-bd95-4a81-9abe-deeda4d0fac4"
         ],
         "custom_css": [
-          "footer-block--newsletter {display: flex; flex-direction: column; align-items: flex-start; \/* aligns items to the start of the cross axis (top for column flex direction) *\/ justify-content: center; margin-right: 50px; margin-top: 0; margin-bottom: 50px;}"
+          ".footer__content-top {display: flex; flex-wrap: wrap; align-items: flex-start;}",
+          ".footer-block {padding: 0 25px 0 25px;}",
+          ".footer-block--newsletter {display: flex; flex-direction: column; align-items: flex-start; \/* aligns items to the start of the cross axis (top for column flex direction) *\/ justify-content: center; margin-right: 50px; margin-top: 0; margin-bottom: 50px;}"
         ],
         "settings": {
           "color_scheme": "accent-1",
