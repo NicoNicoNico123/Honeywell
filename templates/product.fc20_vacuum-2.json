@@ -548,7 +548,8 @@
         "f78ca53c-49fa-4db8-b9cd-eb39220e5077"
       ],
       "custom_css": [
-        ".grid grid--1-col grid--2-col-tablet collapsible-content__grid collapsible-content__grid--reverse {width: 33.33%;}"
+        ".collapsible-content__grid {display: flex; flex-wrap: wrap;}",
+        ".collapsible-content__grid__item {width: 33.33%;}"
       ],
       "settings": {
         "caption": "",
@@ -589,6 +590,10 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "custom_css": [
+        ".collapsible-content__grid {display: flex; flex-wrap: wrap;}",
+        ".collapsible-content__grid__item {width: 33.33%;}"
+      ],
       "settings": {
         "heading": "You may also like",
         "heading_size": "h2",
