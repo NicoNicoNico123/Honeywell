@@ -95,8 +95,8 @@
         "template--16725795307748__60fbd4a8-42e3-4d70-9915-47b2cce34d7c-collapsible_row-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "clipboard",
+            "heading": "Vacuum Cleaners",
+            "icon": "none",
             "row_content": "",
             "page": ""
           }
