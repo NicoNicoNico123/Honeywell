@@ -164,8 +164,7 @@
           "3806b5d3-bd95-4a81-9abe-deeda4d0fac4"
         ],
         "custom_css": [
-          ".footer__blocks-wrapper {display: flex; flex-wrap: wrap;}",
-          ".footer-block {flex: 1 0 auto; }"
+
         ],
         "settings": {
           "color_scheme": "accent-1",
