@@ -7,9 +7,9 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/VC14.png",
-            "heading": "VC14 AEROMAX ELITE",
+            "heading": "Clean every corner effortlessly",
             "heading_size": "h1",
-            "subheading": "Powerful Suction when you need it most!",
+            "subheading": "",
             "button_label": "LEARN MORE",
             "link": "shopify:\/\/products\/vc14",
             "button_style_secondary": false,
@@ -25,11 +25,65 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/FC20.png",
-            "heading": "FC20 ULTAMAX PRO",
+            "heading": "Vacuum and wash hard floors at same time",
             "heading_size": "h1",
-            "subheading": "3-in-1 CORDLESS for Home or Small Offices",
+            "subheading": "",
             "button_label": "LEARN MORE",
             "link": "shopify:\/\/products\/fc20",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "cc8802c7-f782-4217-8a4d-e4cd51629165": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HONEYWELL_FC15_BROCHURE_2023.05.png",
+            "heading": "Great for home or small offices",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "LEARN MORE",
+            "link": "shopify:\/\/products\/fc15-ultamax-elite",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "left"
+          }
+        },
+        "c1287e0e-be07-4526-a292-ee095ccd2a4a": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HONEYWELL_VC16_BROCHURE-04-24-2023-1.png",
+            "heading": "Experience powerful suction",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "LEARN MORE",
+            "link": "shopify:\/\/products\/vc16-aeromax-pro-cordless-vac",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "ba9b3ded-6b82-458d-b4e0-2ba3d4b77d7c": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Picture2_e2a92d69-b1d3-4c7b-9f1f-02a66cb5244b.png",
+            "heading": "Powerful cleaning made easy",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "LEARN MORE",
+            "link": "shopify:\/\/products\/vc10-aeromax-elite",
             "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": false,
@@ -42,7 +96,10 @@
       },
       "block_order": [
         "template--16560294494436__118fd374-1586-4eef-8b49-395697bcaf96-1665048675e4d580ba-0",
-        "template--16560294494436__118fd374-1586-4eef-8b49-395697bcaf96-1665048675e4d580ba-1"
+        "template--16560294494436__118fd374-1586-4eef-8b49-395697bcaf96-1665048675e4d580ba-1",
+        "cc8802c7-f782-4217-8a4d-e4cd51629165",
+        "c1287e0e-be07-4526-a292-ee095ccd2a4a",
+        "ba9b3ded-6b82-458d-b4e0-2ba3d4b77d7c"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -103,7 +160,7 @@
           "type": "button",
           "settings": {
             "button_label": "EXPLORER MORE",
-            "button_link": "shopify:\/\/collections\/frontpage"
+            "button_link": "shopify:\/\/products\/vc14"
           }
         }
       },
@@ -115,7 +172,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/2BD1_0077_6e18fd49-8dc6-40e4-b28f-c3dba8579a90.png",
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
@@ -147,7 +204,7 @@
           "type": "button",
           "settings": {
             "button_label": "EXPLORE MORE",
-            "button_link": "shopify:\/\/collections\/wet-dry-floor-cleaners"
+            "button_link": "shopify:\/\/products\/fc20"
           }
         }
       },
@@ -159,7 +216,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/BD1_0077.png",
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",

@@ -101,6 +101,7 @@
                       {%- assign row_id = col_id_base | append: i | append: "" -%}
                       <div class="column">
                         {{ block.settings[row_id] }}
+                        {{ block.settings.row_content }}
                       </div>
                     {%- endfor -%}
                   </div>
@@ -358,10 +359,6 @@
         "name": "t:sections.collapsible_content.presets.name",
         "blocks": [
           {
-            "type": "collapsible_row"
-          }, {
-            "type": "collapsible_row"
-          }, {
             "type": "collapsible_row"
           }, {
             "type": "collapsible_row"

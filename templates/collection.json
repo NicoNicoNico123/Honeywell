@@ -4,12 +4,15 @@
       "type": "main-collection-banner",
       "settings": {
         "show_collection_description": true,
-        "show_collection_image": false,
+        "show_collection_image": true,
         "color_scheme": "background-1"
       }
     },
     "product-grid": {
       "type": "main-collection-product-grid",
+      "custom_css": [
+        ".price__container {display: none;}"
+      ],
       "settings": {
         "products_per_page": 16,
         "columns_desktop": 4,

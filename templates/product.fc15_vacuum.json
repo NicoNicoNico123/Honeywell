@@ -15,27 +15,30 @@
           "settings": {
           }
         },
+        "19c4612a-c131-4905-9ecf-ef3a89a84896": {
+          "type": "price",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "af79ac76-f26c-4779-8ff9-8f3b170a7bcf": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "92e65a59-4c0d-411f-8467-a5f46190573b": {
+          "type": "buy_buttons",
+          "disabled": true,
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
         "caption": {
           "type": "text",
           "settings": {
             "text": "{{ product.metafields.descriptors.subtitle.value }}",
             "text_style": "subtitle"
-          }
-        },
-        "price": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "cd8603d8-eca0-438b-8556-b773bc4791c2": {
-          "type": "shopify:\/\/apps\/product-reviews\/blocks\/star_rating\/bae150af-8da8-48b2-9867-398188115e5f",
-          "disabled": true,
-          "settings": {
-            "stars_fill_color": "#ffea00",
-            "star_size": 15,
-            "text_align": "flex-start",
-            "product": "{{product}}",
-            "stars_text_empty": "No reviews"
           }
         },
         "variant_picker": {
@@ -44,19 +47,16 @@
             "picker_type": "dropdown"
           }
         },
-        "quantity_selector": {
-          "type": "quantity_selector",
+        "e820fecc-0059-401e-aa58-43ad16519310": {
+          "type": "text",
           "settings": {
-          }
-        },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
+            "text": "Introducing the Honeywell FC20 ULTAMAX PRO Cordless FloorCleaner. This 3-in-1 device vacuums, washes hard floors, and tackles quick carpet clean-ups. With a powerful synchronized digital wet and dry motor, motorized multi-surface power scrub soft roller, and efficient waste separation, it offers superior performance. Enjoy user-friendly features like the LED display, intelligent voice prompts, and Smart Auto Clean Mode. With a high-capacity battery and easy-charge base, maintenance is a breeze. Includes power scrub rollers, wet\/dry filters, and multi-surface floor cleaner for a complete cleaning solution.",
+            "text_style": "body"
           }
         },
         "collapsible-row-0": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Special Feature",
             "icon": "Feature",
@@ -74,22 +74,15 @@
             "page": "shipping-policy"
           }
         },
-        "collapsible-row-2": {
-          "type": "collapsible_tab",
+        "cd8603d8-eca0-438b-8556-b773bc4791c2": {
+          "type": "shopify:\/\/apps\/product-reviews\/blocks\/star_rating\/bae150af-8da8-48b2-9867-398188115e5f",
+          "disabled": true,
           "settings": {
-            "heading": "Products Size",
-            "icon": "Dimension",
-            "content": "<p>{{ product.metafields.custom.product_size.value }}<\/p>",
-            "page": ""
-          }
-        },
-        "378805d7-7f19-47fc-a45b-9b658bfc06f5": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Product weight",
-            "icon": "Weight",
-            "content": "<p><em>5.4kg  (11.9 lbs)<\/em><\/p>",
-            "page": ""
+            "stars_fill_color": "#ffea00",
+            "star_size": 15,
+            "text_align": "flex-start",
+            "product": "{{product}}",
+            "stars_text_empty": "No reviews"
           }
         },
         "share": {
@@ -102,25 +95,24 @@
       "block_order": [
         "vendor",
         "title",
+        "19c4612a-c131-4905-9ecf-ef3a89a84896",
+        "af79ac76-f26c-4779-8ff9-8f3b170a7bcf",
+        "92e65a59-4c0d-411f-8467-a5f46190573b",
         "caption",
-        "price",
-        "cd8603d8-eca0-438b-8556-b773bc4791c2",
         "variant_picker",
-        "quantity_selector",
-        "buy_buttons",
+        "e820fecc-0059-401e-aa58-43ad16519310",
         "collapsible-row-0",
         "collapsible-row-1",
-        "collapsible-row-2",
-        "378805d7-7f19-47fc-a45b-9b658bfc06f5",
+        "cd8603d8-eca0-438b-8556-b773bc4791c2",
         "share"
       ],
       "settings": {
-        "enable_sticky_info": true,
+        "enable_sticky_info": false,
         "media_position": "left",
         "gallery_layout": "thumbnail_slider",
-        "media_size": "medium",
+        "media_size": "small",
         "mobile_thumbnails": "show",
-        "hide_variants": true,
+        "hide_variants": false,
         "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 12
@@ -243,7 +235,7 @@
         "heading": "",
         "heading_size": "h0",
         "cover_image": "shopify:\/\/shop_images\/opening_FC20.jpg",
-        "video_url": "pHxgPchzmbY",
+        "video_url": "LQmr63oBdZg",
         "description": "",
         "full_width": false,
         "color_scheme": "background-1",
@@ -390,7 +382,7 @@
         "4bff166e-4334-4286-aaf8-9579317651b0"
       ],
       "settings": {
-        "title": "Key Feature",
+        "title": "Key Features",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -424,8 +416,8 @@
         "template--16560276144356__3b995f87-544a-4a04-951a-ebbcf9ffa94e-1670574871995f9045-0"
       ],
       "settings": {
-        "title": "Feature Highlights",
-        "heading_size": "h1",
+        "title": "Featured Highlights",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
@@ -440,68 +432,76 @@
         "padding_bottom": 36
       }
     },
-    "b4b82444-8e29-4d6b-b2c7-57612d67ba79": {
-      "type": "collapsible-content",
+    "56cdcaaa-88c2-4720-b292-80442ebfb000": {
+      "type": "collapsible-content_spec",
       "blocks": {
-        "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-0": {
+        "template--16761726664932__56cdcaaa-88c2-4720-b292-80442ebfb000-collapsible_row-1": {
           "type": "collapsible_row",
           "settings": {
             "heading": " Specifications",
             "icon": "none",
-            "row_content": "<p><strong>Type<\/strong> Cordless Floor Cleaner<br\/><strong>Color <\/strong>Graphite<br\/><strong>Voltage<\/strong> 28.8V<br\/><strong>Battery<\/strong> High Capacity Li-ion<br\/><strong>Motor<\/strong> Synchronized Digital Wet & Dry Motor<br\/><strong>Powe<\/strong>r ~300W (250W Motor + 50W Motorized Power Scrub Roller)<br\/><strong>Filter<\/strong> Wet & Dry Filter + Sponge<br\/><strong>LED Display<\/strong> Yes<br\/><strong>Charging Time<\/strong> ~3-4 hours<br\/><strong>Running Time<\/strong> up to 35 minutes<br\/><strong>Clean Water Tank Volume<\/strong> 0.8L<br\/><strong>Dirty Water Tank Volum<\/strong>e 0.7L<br\/><strong>Certifications <\/strong>ETL\/cETL<\/p>",
-            "page": ""
+            "columns_desktop": 3,
+            "row_content_1": "<h4><strong>Type<\/strong> <\/h4><p>Cordless Floor Cleaner<\/p><h4><strong>Color <\/strong><\/h4><p>Graphite<\/p><h4>Voltage<\/h4><p>28.8V<\/p>",
+            "row_content_2": "<h4>Battery<\/h4><p>High Capacity Li-ion<\/p><h4>Running Time <\/h4><p>up to 35 minutes<\/p><h4>Charging Time <\/h4><p>~3-4 hours<\/p>",
+            "row_content_3": "<h4>Clean Water Tank Volume <\/h4><p>0.8L<\/p><h4>Clean Water Tank Volume <\/h4><p>0.8L<\/p><h4>Certifications <\/h4><p>ETL\/cETL<\/p>"
           }
         },
-        "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-1": {
+        "82a64515-adb7-4300-86ca-7d420ab6e655": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Details",
             "icon": "none",
-            "row_content": "<p>• Professional 3-in-1 Floor Cleaner: Precision Spray, Power <br\/>• Scrub and Vacuum. Great for Home or Small Offices!<br\/>• High Suction Synchronized Digital Wet & Dry Motor <br\/>• Vacuum and Wash Hard Floors at Same Time<br\/>• Great for Hard Floors or Quick Clean-Ups on Carpet*<br\/>• Patent Pending Design Easily Separates Wet & Dry Waste<br\/>• Commercial Grade Metal Side Side Supports<br\/>• Easily Store, Charge, and Self-Clean <br\/>• Easy-Change, High-Capacity Battery Pack<br\/>• Up to 35 Minutes Runtime*<br\/>• Easy to Fill<br\/>• LED Display<br\/>• Self-Clean Mode<br\/>• Smart Auto Clean Mode<br\/>• Intelligent Voice Prompts<br\/>• Easy-Charge Base with Accessory Storage Included<br\/>• Bonus: 2 Power Scrub Rollers, 2 Wet\/Dry Filters, <br\/>and 2 Multi-Surface Floor Cleaner <br\/>Bottles (960 mL total) Included<\/p>",
-            "page": ""
+            "columns_desktop": 1,
+            "row_content_1": "<p>• Professional 3-in-1 Floor Cleaner: Precision Spray, Power<br\/>• Scrub and Vacuum. Great for Home or Small Offices!<br\/>• High Suction Synchronized Digital Wet & Dry Motor<br\/>• Vacuum and Wash Hard Floors at Same Time<br\/>• Great for Hard Floors or Quick Clean-Ups on Carpet*<br\/>• Patent Pending Design Easily Separates Wet & Dry Waste<br\/>• Commercial Grade Metal Side Side Supports<br\/>• Easily Store, Charge, and Self-Clean<br\/>• Easy-Change, High-Capacity Battery Pack<br\/>• Up to 35 Minutes Runtime*<br\/>• Easy to Fill<br\/>• LED Display<br\/>• Self-Clean Mode<br\/>• Smart Auto Clean Mode<br\/>• Intelligent Voice Prompts<br\/>• Easy-Charge Base with Accessory Storage Included<br\/>• Bonus: 2 Power Scrub Rollers, 2 Wet\/Dry Filters, and 2 Multi-Surface Floor Cleaner Bottles (960 mL total) Included<\/p>",
+            "row_content_2": "",
+            "row_content_3": ""
           }
         },
-        "76ac5f8c-ad4b-428d-857a-b7594aec3449": {
+        "ec40d8f8-6c36-490b-96c9-043eba0459df": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Dimensions\/Weights",
             "icon": "none",
-            "row_content": "<p><strong>Product (W x D x H)<\/strong> 13.9” x 13.5” x 46.5” (35.4 x 34.3 x 118.2 cm)<br\/><strong>Shipping (W x D x H)<\/strong> 30.3” x 16.1” x 11” (77 x 41 x 28 cm)<br\/><strong>Net Product Weight <br\/>(w\/o accessories)<\/strong><br\/>11.9 lbs (5.4 kg)<br\/><strong>Shipping Weight (pkg)<\/strong> 25.9 lbs (11.8 kg)<\/p>",
-            "page": ""
+            "columns_desktop": 3,
+            "row_content_1": "<p><strong>Product (W x D x H)<\/strong> 13.9” x 13.5” x 46.5” (35.4 x 34.3 x 118.2 cm)<br\/><strong>Shipping (W x D x H)<\/strong> 30.3” x 16.1” x 11” (77 x 41 x 28 cm)<br\/><strong>Net Product Weight (w\/o accessories)<\/strong> 11.9 lbs (5.4 kg)<br\/><strong>Shipping Weight (pkg)<\/strong> 25.9 lbs (11.8 kg)<\/p>",
+            "row_content_2": "",
+            "row_content_3": ""
           }
         },
-        "f78ca53c-49fa-4db8-b9cd-eb39220e5077": {
+        "0dbfa6fd-3462-42fc-9820-a695e83bbee1": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Warranty\/UserManual",
             "icon": "none",
-            "row_content": "<p><strong>LIMITED WARRANTY (USA & CANADA)<\/strong><br\/>Parts & Labor 2 years<\/p><p><a href=\"https:\/\/1drv.ms\/b\/s!AkAshu1YOYmckCRxUsKQjt4jygUt\" target=\"_blank\" title=\"Instruction manual\">Instruction manual<\/a><\/p>",
-            "page": ""
+            "columns_desktop": 3,
+            "row_content_1": "<p><strong>LIMITED WARRANTY (USA & CANADA)<\/strong><br\/>Parts & Labor 2 years<\/p><p><a href=\"https:\/\/1drv.ms\/b\/s!AkAshu1YOYmckCRxUsKQjt4jygUt\" target=\"_blank\" title=\"Instruction manual\">Instruction manual<\/a><\/p>",
+            "row_content_2": "",
+            "row_content_3": ""
           }
         }
       },
       "block_order": [
-        "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-0",
-        "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-1",
-        "76ac5f8c-ad4b-428d-857a-b7594aec3449",
-        "f78ca53c-49fa-4db8-b9cd-eb39220e5077"
+        "template--16761726664932__56cdcaaa-88c2-4720-b292-80442ebfb000-collapsible_row-1",
+        "82a64515-adb7-4300-86ca-7d420ab6e655",
+        "ec40d8f8-6c36-490b-96c9-043eba0459df",
+        "0dbfa6fd-3462-42fc-9820-a695e83bbee1"
       ],
       "custom_css": [
-
+        ".column {width: 100%; \/* Or any other percentage or absolute value *\/}"
       ],
       "settings": {
         "caption": "",
-        "heading": "Specifications",
-        "heading_size": "h2",
-        "heading_alignment": "left",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
         "layout": "none",
         "color_scheme": "background-1",
-        "container_color_scheme": "background-1",
+        "container_color_scheme": "background-2",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "473c6e2e-5d90-488c-8e56-8d8a46a03757": {
@@ -611,7 +611,7 @@
       ],
       "settings": {
         "title": "In the Box",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "image_width": "half",
         "image_ratio": "square",
         "columns_desktop": 3,
@@ -630,7 +630,7 @@
         "template--16647714996452__4fa12abf-b1ce-471e-998a-851be4572175-1671429038b3eefe6d-1": {
           "type": "text",
           "settings": {
-            "text": "<p>*Run time and Air Watts (AW) may vary based on usage, power mode, floor type, dust levels and\/or attachments\/tools being used.<\/p><p>*Design, features, content and specifications may vary by product and are subject to change without notice. Weights and measurements are approximate. Runtime may vary based on usage. Information for reference purposes only. Not responsible for typographical errors. <br\/>Please refer to user manual for complete details. For residential use only.<\/p>"
+            "text": "<p>*Run time and Air Watts (AW) may vary based on usage, power mode, floor type, dust levels and\/or attachments\/tools being used. Design, features, content and specifications may vary by product and are subject to change without notice. Weights and measurements are approximate. Runtime may vary based on usage. Information for reference purposes only. Not responsible for typographical errors. Please refer to user manual for complete details. For residential use only.<\/p>"
           }
         }
       },
@@ -693,7 +693,7 @@
     "8caf4f28-7549-41ab-acd1-d038e0939ede",
     "d07de62e-e9f8-4439-8fb2-0d03abd21571",
     "3b995f87-544a-4a04-951a-ebbcf9ffa94e",
-    "b4b82444-8e29-4d6b-b2c7-57612d67ba79",
+    "56cdcaaa-88c2-4720-b292-80442ebfb000",
     "473c6e2e-5d90-488c-8e56-8d8a46a03757",
     "4fa12abf-b1ce-471e-998a-851be4572175",
     "product-recommendations",
