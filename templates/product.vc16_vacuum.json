@@ -667,6 +667,25 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "7aa4b918-dfb9-4bcd-afc1-13203fcd2ff7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HONEYWELL_VC16_28.png",
+            "title": "",
+            "text": "<p>Scented Bead Holder<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "7a655471-2ad7-448b-a850-0d7513ca5735": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Two (2) HEPA Filters<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -684,7 +703,9 @@
         "4af5c14c-3fbc-409f-a9f6-2c796ac21681",
         "c3ec6c59-ea0a-47ac-97a0-55eb3b07e4c3",
         "0b9413c4-b79c-4794-bab1-832293cac041",
-        "5ad4bc4c-2b92-44de-a073-f629474f0642"
+        "5ad4bc4c-2b92-44de-a073-f629474f0642",
+        "7aa4b918-dfb9-4bcd-afc1-13203fcd2ff7",
+        "7a655471-2ad7-448b-a850-0d7513ca5735"
       ],
       "settings": {
         "title": "In the Box",
