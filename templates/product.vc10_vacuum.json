@@ -1,0 +1,702 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "body"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "19c4612a-c131-4905-9ecf-ef3a89a84896": {
+          "type": "price",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "af79ac76-f26c-4779-8ff9-8f3b170a7bcf": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "92e65a59-4c0d-411f-8467-a5f46190573b": {
+          "type": "buy_buttons",
+          "disabled": true,
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "caption": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "dropdown"
+          }
+        },
+        "e820fecc-0059-401e-aa58-43ad16519310": {
+          "type": "text",
+          "settings": {
+            "text": "Introducing the Honeywell FC20 ULTAMAX PRO Cordless FloorCleaner. This 3-in-1 device vacuums, washes hard floors, and tackles quick carpet clean-ups. With a powerful synchronized digital wet and dry motor, motorized multi-surface power scrub soft roller, and efficient waste separation, it offers superior performance. Enjoy user-friendly features like the LED display, intelligent voice prompts, and Smart Auto Clean Mode. With a high-capacity battery and easy-charge base, maintenance is a breeze. Includes power scrub rollers, wet\/dry filters, and multi-surface floor cleaner for a complete cleaning solution.",
+            "text_style": "body"
+          }
+        },
+        "collapsible-row-0": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Special Feature",
+            "icon": "Feature",
+            "content": "<p>The Honeywell FC20 ULTAMAX PRO professional 3-in-1 Cordless Floor Cleaner isengineered to vacuum and wash hard floors simultaneously, and perfect for quickcarpet clean-ups (without water). This high-performance device is equipped witha high-tech synchronized digital wet and dry motor for powerful suction andfeatures a motorized multi-surface power scrub soft roller for an in-depthclean. Our innovative patent-pending design separates wet and dry waste,complemented by the stainless-steel precision spray nozzle and large, separateclean and dirty water tanks that ensure high-efficiency cleaning.Commercial-grade metal side support tubes add an extra layer of durability. Theeasy-to-use LED display and intelligent voice prompts, along with the advanced SmartAuto Clean Mode,optimize your cleaning experience. With an easy-change, high-capacity batterypack providing up to 35 minutes of runtime, and an easy-charge base withaccessory storage, maintaining your device is virtually effortless. The packageincludes two power scrub rollers, two wet\/dry filters, and two bottles ofmulti-surface floor cleaner for the ultimate cleaning solution.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible-row-1": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Shipping & Returns",
+            "icon": "Shipping",
+            "content": "",
+            "page": "shipping-policy"
+          }
+        },
+        "cd8603d8-eca0-438b-8556-b773bc4791c2": {
+          "type": "shopify:\/\/apps\/product-reviews\/blocks\/star_rating\/bae150af-8da8-48b2-9867-398188115e5f",
+          "disabled": true,
+          "settings": {
+            "stars_fill_color": "#ffea00",
+            "star_size": 15,
+            "text_align": "flex-start",
+            "product": "{{product}}",
+            "stars_text_empty": "No reviews"
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "19c4612a-c131-4905-9ecf-ef3a89a84896",
+        "af79ac76-f26c-4779-8ff9-8f3b170a7bcf",
+        "92e65a59-4c0d-411f-8467-a5f46190573b",
+        "caption",
+        "variant_picker",
+        "e820fecc-0059-401e-aa58-43ad16519310",
+        "collapsible-row-0",
+        "collapsible-row-1",
+        "cd8603d8-eca0-438b-8556-b773bc4791c2",
+        "share"
+      ],
+      "settings": {
+        "enable_sticky_info": false,
+        "media_position": "left",
+        "gallery_layout": "thumbnail_slider",
+        "media_size": "small",
+        "mobile_thumbnails": "show",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "image-with-text": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "image-with-text-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Say goodbye to dirty floors",
+            "heading_size": "h2"
+          }
+        },
+        "image-with-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Clean any surface with ease using the power scrub soft roller. Its soft roller design is perfect for hard floors and its cleaning power will leave your surfaces spotless. <\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "image-with-text-0",
+        "image-with-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/clean.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "cef38528-4c2b-4665-b556-4e10b912efa3": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "05a822c2-4f2d-4a7d-b1da-7c4a70ed7004": {
+          "type": "heading",
+          "settings": {
+            "heading": "Transform dirty surfaces into sparkling clean ones",
+            "heading_size": "h2"
+          }
+        },
+        "306de47b-bec4-4ff7-a296-89bdc1a45253": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Quickly and easily remove dirt and grime from any surface with our powerful spray cleaning solution. Simply spray on dirty areas and watch as it effectively tackles even the toughest stains. Make cleaning a breeze with our convenient and versatile spray nozzle<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "05a822c2-4f2d-4a7d-b1da-7c4a70ed7004",
+        "306de47b-bec4-4ff7-a296-89bdc1a45253"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/inner_nozzle_randering.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "416de713-6f6a-4b25-9004-8e37b4f4c849": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--16560276144356__416de713-6f6a-4b25-9004-8e37b4f4c849-1671166013c316ff7a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Revolutionize waste sorting with our innovative wet and dry separator",
+            "heading_size": "h2"
+          }
+        },
+        "template--16560276144356__416de713-6f6a-4b25-9004-8e37b4f4c849-1671166013c316ff7a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Effortlessly separate wet and dry waste with our dual-function tool. The added convenience of an easier to empty dust bin makes waste management a breeze. Save time and hassle by using our practical and efficient wet and dry waste separator<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16560276144356__416de713-6f6a-4b25-9004-8e37b4f4c849-1671166013c316ff7a-0",
+        "template--16560276144356__416de713-6f6a-4b25-9004-8e37b4f4c849-1671166013c316ff7a-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/dirt_water_tank_combination.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "8caf4f28-7549-41ab-acd1-d038e0939ede": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h0",
+        "cover_image": "shopify:\/\/shop_images\/opening_FC20.jpg",
+        "video_url": "LQmr63oBdZg",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d07de62e-e9f8-4439-8fb2-0d03abd21571": {
+      "type": "multicolumn",
+      "blocks": {
+        "522f87bf-8493-4da2-b043-6261692ba9fe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HONEYWELL_FC20_01.png",
+            "title": "",
+            "text": "<p>High Suction Wet & Dry Motor<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "877deb02-da83-4cc8-b9b4-db9bb3884cae": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HONEYWELL_FC20_02.png",
+            "title": "",
+            "text": "<p>Vacuum and Wash at Same Time<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HONEYWELL_FC20_03.png",
+            "title": "",
+            "text": "<p>Clean Tight Spaces<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "b663fed6-dd94-439d-974b-b908ad3287b9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sprayer_04fcab75-822d-4af8-89ce-b10778a5873e.jpg",
+            "title": "",
+            "text": "<p>Precision Spray & Power Scrub<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "f6165712-5fb2-42a2-b14e-c0d64d1f9c08": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HONEYWELL_FC20_04.png",
+            "title": "",
+            "text": "<p>Power Scrub with Soft Roller<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HONEYWELL_FC20_05_34eb6e6c-9556-4d04-81c0-1d62ef528cc9.png",
+            "title": "",
+            "text": "<p>Easy Store and Charge<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "5d4a6e9e-c23d-478e-b2d6-33b9edfc2275": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HONEYWELL_FC20_06.png",
+            "title": "",
+            "text": "<p> Up to 35 min runtime<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HONEYWELL_FC20_07_dbbbc04d-f630-427a-9481-947066ca3c43.png",
+            "title": "",
+            "text": "<p>Patent Pending Design Easily <br\/>Separates Wet and Dry Waste<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "4a68a926-e688-4616-a579-85a33825a1dc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HONEYWELL_FC20_06.png",
+            "title": "",
+            "text": "<p>Easily Charge Battery. Up to 35 min runtime*<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "e2d0f502-eb08-4d54-aace-7d7ab8c2730b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HONEYWELL_FC20_08_dff2e2c6-3705-45df-b4da-3a3e4b88290f.png",
+            "title": "",
+            "text": "<p>Patent Pending Design<br\/>Easily Separates Wet & Dry Waste<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "510b76ef-9df0-41dc-b62d-521559730c56": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HONEYWELL_FC20_12.png",
+            "title": "",
+            "text": "<p>Self-Clean Mode<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "4bff166e-4334-4286-aaf8-9579317651b0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HONEYWELL_FC20_11.png",
+            "title": "",
+            "text": "<p>Deep Clean with Powerful Motor<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "522f87bf-8493-4da2-b043-6261692ba9fe",
+        "877deb02-da83-4cc8-b9b4-db9bb3884cae",
+        "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-1",
+        "b663fed6-dd94-439d-974b-b908ad3287b9",
+        "f6165712-5fb2-42a2-b14e-c0d64d1f9c08",
+        "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-2",
+        "5d4a6e9e-c23d-478e-b2d6-33b9edfc2275",
+        "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-0",
+        "4a68a926-e688-4616-a579-85a33825a1dc",
+        "e2d0f502-eb08-4d54-aace-7d7ab8c2730b",
+        "510b76ef-9df0-41dc-b62d-521559730c56",
+        "4bff166e-4334-4286-aaf8-9579317651b0"
+      ],
+      "settings": {
+        "title": "Key Features",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 16,
+        "padding_bottom": 36
+      }
+    },
+    "3b995f87-544a-4a04-951a-ebbcf9ffa94e": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16560276144356__3b995f87-544a-4a04-951a-ebbcf9ffa94e-1670574871995f9045-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HONEYWELL_FC20_BROCHURE.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16560276144356__3b995f87-544a-4a04-951a-ebbcf9ffa94e-1670574871995f9045-0"
+      ],
+      "settings": {
+        "title": "Featured Highlights",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "56cdcaaa-88c2-4720-b292-80442ebfb000": {
+      "type": "collapsible-content_spec",
+      "blocks": {
+        "template--16761726664932__56cdcaaa-88c2-4720-b292-80442ebfb000-collapsible_row-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": " Specifications",
+            "icon": "none",
+            "columns_desktop": 3,
+            "row_content_1": "<h4><strong>Type<\/strong> <\/h4><p>Cordless Floor Cleaner<\/p><h4><strong>Color <\/strong><\/h4><p>Graphite<\/p><h4>Voltage<\/h4><p>28.8V<\/p>",
+            "row_content_2": "<h4>Battery<\/h4><p>High Capacity Li-ion<\/p><h4>Running Time <\/h4><p>up to 35 minutes<\/p><h4>Charging Time <\/h4><p>~3-4 hours<\/p>",
+            "row_content_3": "<h4>Clean Water Tank Volume <\/h4><p>0.8L<\/p><h4>Clean Water Tank Volume <\/h4><p>0.8L<\/p><h4>Certifications <\/h4><p>ETL\/cETL<\/p>"
+          }
+        },
+        "82a64515-adb7-4300-86ca-7d420ab6e655": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Details",
+            "icon": "none",
+            "columns_desktop": 1,
+            "row_content_1": "<p>• Professional 3-in-1 Floor Cleaner: Precision Spray, Power<br\/>• Scrub and Vacuum. Great for Home or Small Offices!<br\/>• High Suction Synchronized Digital Wet & Dry Motor<br\/>• Vacuum and Wash Hard Floors at Same Time<br\/>• Great for Hard Floors or Quick Clean-Ups on Carpet*<br\/>• Patent Pending Design Easily Separates Wet & Dry Waste<br\/>• Commercial Grade Metal Side Side Supports<br\/>• Easily Store, Charge, and Self-Clean<br\/>• Easy-Change, High-Capacity Battery Pack<br\/>• Up to 35 Minutes Runtime*<br\/>• Easy to Fill<br\/>• LED Display<br\/>• Self-Clean Mode<br\/>• Smart Auto Clean Mode<br\/>• Intelligent Voice Prompts<br\/>• Easy-Charge Base with Accessory Storage Included<br\/>• Bonus: 2 Power Scrub Rollers, 2 Wet\/Dry Filters, and 2 Multi-Surface Floor Cleaner Bottles (960 mL total) Included<\/p>",
+            "row_content_2": "",
+            "row_content_3": ""
+          }
+        },
+        "ec40d8f8-6c36-490b-96c9-043eba0459df": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Dimensions\/Weights",
+            "icon": "none",
+            "columns_desktop": 3,
+            "row_content_1": "<p><strong>Product (W x D x H)<\/strong> 13.9” x 13.5” x 46.5” (35.4 x 34.3 x 118.2 cm)<br\/><strong>Shipping (W x D x H)<\/strong> 30.3” x 16.1” x 11” (77 x 41 x 28 cm)<br\/><strong>Net Product Weight (w\/o accessories)<\/strong> 11.9 lbs (5.4 kg)<br\/><strong>Shipping Weight (pkg)<\/strong> 25.9 lbs (11.8 kg)<\/p>",
+            "row_content_2": "",
+            "row_content_3": ""
+          }
+        },
+        "0dbfa6fd-3462-42fc-9820-a695e83bbee1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Warranty\/UserManual",
+            "icon": "none",
+            "columns_desktop": 3,
+            "row_content_1": "<p><strong>LIMITED WARRANTY (USA & CANADA)<\/strong><br\/>Parts & Labor 2 years<\/p><p><a href=\"https:\/\/1drv.ms\/b\/s!AkAshu1YOYmckCRxUsKQjt4jygUt\" target=\"_blank\" title=\"Instruction manual\">Instruction manual<\/a><\/p>",
+            "row_content_2": "",
+            "row_content_3": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16761726664932__56cdcaaa-88c2-4720-b292-80442ebfb000-collapsible_row-1",
+        "82a64515-adb7-4300-86ca-7d420ab6e655",
+        "ec40d8f8-6c36-490b-96c9-043eba0459df",
+        "0dbfa6fd-3462-42fc-9820-a695e83bbee1"
+      ],
+      "custom_css": [
+        ".column {width: 100%; \/* Or any other percentage or absolute value *\/}"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "473c6e2e-5d90-488c-8e56-8d8a46a03757": {
+      "type": "multi_accessories",
+      "blocks": {
+        "template--16642955608292__473c6e2e-5d90-488c-8e56-8d8a46a03757-16710751757c2675d1-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FC20body.png",
+            "title": "",
+            "text": "<p>With 50W Motorized Power Scrubber & Stainless Steel <br\/>Spray Nozzle<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "30322f2c-79c5-4a4f-af15-e7aece698135": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rollers.png",
+            "title": "",
+            "text": "<p>Two Easy-Change Power Scrub Rollers for Multi-Surface Hard Floors. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d73bdf2d-33a3-4b10-bcab-14142fae4680": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/filter.png",
+            "title": "",
+            "text": "<p>Two Wet\/Dry Filters<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "4d07c573-1184-4d01-9727-58959557cb16": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Short_Cleaning_Brush_with_Cutter_276e20f5-0173-4a36-b01a-7d21572dfebd.png",
+            "title": "",
+            "text": "<p>Short Cleaning Brush with Cutter<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "6e3aa1f1-f561-4bb3-8b14-2cda62f257e3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Longer_Cleaning_Brush_with_Bristles.png",
+            "title": "",
+            "text": "<p>Longer Cleaning Brush with Bristles<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "78bea8d2-4683-465b-86ee-1d876ac86b21": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Easy-Change_High-Capacity_Battery_Pack.png",
+            "title": "",
+            "text": "<p>Easy-Change, High-Capacity Battery Pack<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0d0d399f-9604-41c9-9e64-8b5e9aea28e6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Charger.png",
+            "title": "",
+            "text": "<p>Charger (ETL)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "bdf5b48e-48c1-4c03-86a7-d5bf6e8b4778": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Easy-Charge_Base_and_Accessory_Storage.png",
+            "title": "",
+            "text": "<p>Easy-Charge Base and Accessory Storage<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "b1788ba2-6401-4f05-9e9d-048b4ae162cc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Two_2_Multi_Surface_Floor_Cleaner_Bottles.png",
+            "title": "",
+            "text": "<p>Two  Multi Surface Floor Cleaner Bottles 480 mL each (960 mL Total)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16642955608292__473c6e2e-5d90-488c-8e56-8d8a46a03757-16710751757c2675d1-0",
+        "30322f2c-79c5-4a4f-af15-e7aece698135",
+        "d73bdf2d-33a3-4b10-bcab-14142fae4680",
+        "4d07c573-1184-4d01-9727-58959557cb16",
+        "6e3aa1f1-f561-4bb3-8b14-2cda62f257e3",
+        "78bea8d2-4683-465b-86ee-1d876ac86b21",
+        "0d0d399f-9604-41c9-9e64-8b5e9aea28e6",
+        "bdf5b48e-48c1-4c03-86a7-d5bf6e8b4778",
+        "b1788ba2-6401-4f05-9e9d-048b4ae162cc"
+      ],
+      "settings": {
+        "title": "In the Box",
+        "heading_size": "h2",
+        "image_width": "half",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "4fa12abf-b1ce-471e-998a-851be4572175": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16647714996452__4fa12abf-b1ce-471e-998a-851be4572175-1671429038b3eefe6d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>*Run time and Air Watts (AW) may vary based on usage, power mode, floor type, dust levels and\/or attachments\/tools being used. Design, features, content and specifications may vary by product and are subject to change without notice. Weights and measurements are approximate. Runtime may vary based on usage. Information for reference purposes only. Not responsible for typographical errors. Please refer to user manual for complete details. For residential use only.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16647714996452__4fa12abf-b1ce-471e-998a-851be4572175-1671429038b3eefe6d-1"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "16653705981278b04d": {
+      "type": "apps",
+      "disabled": true,
+      "blocks": {
+        "954ac3dd-9a1b-4522-a6f8-fe509bcf63e8": {
+          "type": "shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f",
+          "disabled": true,
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "954ac3dd-9a1b-4522-a6f8-fe509bcf63e8"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image-with-text",
+    "cef38528-4c2b-4665-b556-4e10b912efa3",
+    "416de713-6f6a-4b25-9004-8e37b4f4c849",
+    "8caf4f28-7549-41ab-acd1-d038e0939ede",
+    "d07de62e-e9f8-4439-8fb2-0d03abd21571",
+    "3b995f87-544a-4a04-951a-ebbcf9ffa94e",
+    "56cdcaaa-88c2-4720-b292-80442ebfb000",
+    "473c6e2e-5d90-488c-8e56-8d8a46a03757",
+    "4fa12abf-b1ce-471e-998a-851be4572175",
+    "product-recommendations",
+    "16653705981278b04d"
+  ]
+}
