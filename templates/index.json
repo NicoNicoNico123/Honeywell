@@ -80,8 +80,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Picture2_e2a92d69-b1d3-4c7b-9f1f-02a66cb5244b.png",
             "heading": "Powerful cleaning made easy",
-            "heading_size": "h1",
-            "subheading": "",
+            "heading_size": "h2",
+            "subheading": "Lightweight clean every corner effortlessly & conveniently",
             "button_label": "LEARN MORE",
             "link": "shopify:\/\/products\/vc10-aeromax-elite",
             "button_style_secondary": false,
