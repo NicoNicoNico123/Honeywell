@@ -647,6 +647,26 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "0b9413c4-b79c-4794-bab1-832293cac041": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HONEYWELL_VC16_19.png",
+            "title": "",
+            "text": "<p>Charger<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "5ad4bc4c-2b92-44de-a073-f629474f0642": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HONEYWELL_VC16_27.png",
+            "title": "",
+            "text": "<p>Ten (10) Scented Bead Bags<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -662,7 +682,9 @@
         "c2923068-4250-49cb-bad3-b00c64d762d6",
         "ef8d9b06-b2ff-4bb1-be44-a3fac46e946e",
         "4af5c14c-3fbc-409f-a9f6-2c796ac21681",
-        "c3ec6c59-ea0a-47ac-97a0-55eb3b07e4c3"
+        "c3ec6c59-ea0a-47ac-97a0-55eb3b07e4c3",
+        "0b9413c4-b79c-4794-bab1-832293cac041",
+        "5ad4bc4c-2b92-44de-a073-f629474f0642"
       ],
       "settings": {
         "title": "In the Box",
