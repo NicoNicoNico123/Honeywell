@@ -621,8 +621,9 @@
         "ef8d9b06-b2ff-4bb1-be44-a3fac46e946e": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/HONEYWELL_VC16_23.png",
+            "title": "",
+            "text": "<p>Wall Dock<\/p>",
             "link_label": "",
             "link": ""
           }
