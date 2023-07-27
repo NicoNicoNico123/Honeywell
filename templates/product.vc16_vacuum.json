@@ -681,7 +681,8 @@
         "7a655471-2ad7-448b-a850-0d7513ca5735": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "image": "shopify:\/\/shop_images\/HONEYWELL_VC16_26.png",
+            "title": "",
             "text": "<p>Two (2) HEPA Filters<\/p>",
             "link_label": "",
             "link": ""
