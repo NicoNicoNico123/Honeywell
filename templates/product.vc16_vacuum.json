@@ -627,6 +627,25 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "4af5c14c-3fbc-409f-a9f6-2c796ac21681": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HONEYWELL_VC16_29.png",
+            "title": "",
+            "text": "<p>User Manual<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "c3ec6c59-ea0a-47ac-97a0-55eb3b07e4c3": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -640,7 +659,9 @@
         "bdf5b48e-48c1-4c03-86a7-d5bf6e8b4778",
         "b1788ba2-6401-4f05-9e9d-048b4ae162cc",
         "c2923068-4250-49cb-bad3-b00c64d762d6",
-        "ef8d9b06-b2ff-4bb1-be44-a3fac46e946e"
+        "ef8d9b06-b2ff-4bb1-be44-a3fac46e946e",
+        "4af5c14c-3fbc-409f-a9f6-2c796ac21681",
+        "c3ec6c59-ea0a-47ac-97a0-55eb3b07e4c3"
       ],
       "settings": {
         "title": "In the Box",
