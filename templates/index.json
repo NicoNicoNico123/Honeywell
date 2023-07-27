@@ -7,9 +7,9 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/VC14.png",
-            "heading": "Innovative & Deluxe  Experience the next level of superior suction",
-            "heading_size": "h2",
-            "subheading": "",
+            "heading": "Innovative & Deluxe",
+            "heading_size": "h1",
+            "subheading": "Experience the next level of superior suction",
             "button_label": "SHOP NOW",
             "link": "shopify:\/\/products\/vc14",
             "button_style_secondary": false,
