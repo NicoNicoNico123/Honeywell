@@ -697,6 +697,16 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "df8e127b-f9f6-4a28-8307-769c3cb9176d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HONEYWELL_VC14_32.png",
+            "title": "",
+            "text": "<p>Instruction Manual<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -717,7 +727,8 @@
         "4d07c573-1184-4d01-9727-58959557cb16",
         "6e3aa1f1-f561-4bb3-8b14-2cda62f257e3",
         "beb27f97-b867-41b9-870c-3c32794e2310",
-        "25a09abb-d4d1-4349-91d5-c002ffe5bb4e"
+        "25a09abb-d4d1-4349-91d5-c002ffe5bb4e",
+        "df8e127b-f9f6-4a28-8307-769c3cb9176d"
       ],
       "settings": {
         "title": "In the Box",
