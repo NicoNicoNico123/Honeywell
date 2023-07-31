@@ -658,16 +658,6 @@
             "link": ""
           }
         },
-        "6e3aa1f1-f561-4bb3-8b14-2cda62f257e3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Longer_Cleaning_Brush_with_Bristles.png",
-            "title": "",
-            "text": "<p>Longer Cleaning Brush with Bristles<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "4d07c573-1184-4d01-9727-58959557cb16": {
           "type": "column",
           "settings": {
@@ -678,10 +668,21 @@
             "link": ""
           }
         },
+        "6e3aa1f1-f561-4bb3-8b14-2cda62f257e3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Longer_Cleaning_Brush_with_Bristles.png",
+            "title": "",
+            "text": "<p>Longer Cleaning Brush with Bristles<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "beb27f97-b867-41b9-870c-3c32794e2310": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "image": "shopify:\/\/shop_images\/HONEYWELL_VC14_30.png",
+            "title": "",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
@@ -712,8 +713,8 @@
         "3b591c65-69ca-4689-901d-9ed33a6d4f80",
         "0d0d399f-9604-41c9-9e64-8b5e9aea28e6",
         "bdf5b48e-48c1-4c03-86a7-d5bf6e8b4778",
-        "6e3aa1f1-f561-4bb3-8b14-2cda62f257e3",
         "4d07c573-1184-4d01-9727-58959557cb16",
+        "6e3aa1f1-f561-4bb3-8b14-2cda62f257e3",
         "beb27f97-b867-41b9-870c-3c32794e2310",
         "25a09abb-d4d1-4349-91d5-c002ffe5bb4e"
       ],
