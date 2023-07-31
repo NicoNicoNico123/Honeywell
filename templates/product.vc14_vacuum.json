@@ -365,6 +365,16 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "1c1b03cd-cb16-4c46-9229-bfcbacba89cd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HONEYWELL_VC14_14.png",
+            "title": "",
+            "text": "<p>Easily clean with water<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -379,7 +389,8 @@
         "4a68a926-e688-4616-a579-85a33825a1dc",
         "e2d0f502-eb08-4d54-aace-7d7ab8c2730b",
         "510b76ef-9df0-41dc-b62d-521559730c56",
-        "4bff166e-4334-4286-aaf8-9579317651b0"
+        "4bff166e-4334-4286-aaf8-9579317651b0",
+        "1c1b03cd-cb16-4c46-9229-bfcbacba89cd"
       ],
       "settings": {
         "title": "Key Features",
