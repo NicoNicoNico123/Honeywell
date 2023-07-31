@@ -608,6 +608,16 @@
             "link": ""
           }
         },
+        "55f199a0-e1bd-457b-a807-6522c8ca4923": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HONEYWELL_VC14_24.png",
+            "title": "",
+            "text": "<p>Deluxe Soft Hairbrush<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "0d0d399f-9604-41c9-9e64-8b5e9aea28e6": {
           "type": "column",
           "settings": {
@@ -647,6 +657,16 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "9d1b5fd9-20e9-4fe9-8308-95b0c51e8efd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HONEYWELL_VC14_25.png",
+            "title": "",
+            "text": "<p>Deluxe Pet Hair Removal Brush<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -659,10 +679,12 @@
         "eb7b494e-cc47-4640-9119-ab227d5f8269",
         "b693676b-ccfb-494e-bdb2-fc06f108dc3d",
         "50f0c8f2-b013-4fd7-a1da-87751d7bb723",
+        "55f199a0-e1bd-457b-a807-6522c8ca4923",
         "0d0d399f-9604-41c9-9e64-8b5e9aea28e6",
         "bdf5b48e-48c1-4c03-86a7-d5bf6e8b4778",
         "6e3aa1f1-f561-4bb3-8b14-2cda62f257e3",
-        "4d07c573-1184-4d01-9727-58959557cb16"
+        "4d07c573-1184-4d01-9727-58959557cb16",
+        "9d1b5fd9-20e9-4fe9-8308-95b0c51e8efd"
       ],
       "settings": {
         "title": "In the Box",
