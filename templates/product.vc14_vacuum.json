@@ -548,32 +548,12 @@
             "link": ""
           }
         },
-        "4d07c573-1184-4d01-9727-58959557cb16": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Short_Cleaning_Brush_with_Cutter_276e20f5-0173-4a36-b01a-7d21572dfebd.png",
-            "title": "",
-            "text": "<p>Short Cleaning Brush with Cutter<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "6e3aa1f1-f561-4bb3-8b14-2cda62f257e3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Longer_Cleaning_Brush_with_Bristles.png",
-            "title": "",
-            "text": "<p>Longer Cleaning Brush with Bristles<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "78bea8d2-4683-465b-86ee-1d876ac86b21": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Easy-Change_High-Capacity_Battery_Pack.png",
+            "image": "shopify:\/\/shop_images\/HONEYWELL_VC14_18.png",
             "title": "",
-            "text": "<p>Easy-Change, High-Capacity Battery Pack<\/p>",
+            "text": "<p>Tangle-Resistant Motorized <br\/>Soft Roller with Natural Brite <br\/>White LED Lights<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -607,18 +587,38 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "6e3aa1f1-f561-4bb3-8b14-2cda62f257e3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Longer_Cleaning_Brush_with_Bristles.png",
+            "title": "",
+            "text": "<p>Longer Cleaning Brush with Bristles<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "4d07c573-1184-4d01-9727-58959557cb16": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Short_Cleaning_Brush_with_Cutter_276e20f5-0173-4a36-b01a-7d21572dfebd.png",
+            "title": "",
+            "text": "<p>Short Cleaning Brush with Cutter<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "template--16642955608292__473c6e2e-5d90-488c-8e56-8d8a46a03757-16710751757c2675d1-0",
         "30322f2c-79c5-4a4f-af15-e7aece698135",
         "d73bdf2d-33a3-4b10-bcab-14142fae4680",
-        "4d07c573-1184-4d01-9727-58959557cb16",
-        "6e3aa1f1-f561-4bb3-8b14-2cda62f257e3",
         "78bea8d2-4683-465b-86ee-1d876ac86b21",
         "0d0d399f-9604-41c9-9e64-8b5e9aea28e6",
         "bdf5b48e-48c1-4c03-86a7-d5bf6e8b4778",
-        "b1788ba2-6401-4f05-9e9d-048b4ae162cc"
+        "b1788ba2-6401-4f05-9e9d-048b4ae162cc",
+        "6e3aa1f1-f561-4bb3-8b14-2cda62f257e3",
+        "4d07c573-1184-4d01-9727-58959557cb16"
       ],
       "settings": {
         "title": "In the Box",
