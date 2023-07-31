@@ -691,8 +691,9 @@
         "25a09abb-d4d1-4349-91d5-c002ffe5bb4e": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/HONEYWELL_VC14_31.png",
+            "title": "",
+            "text": "<p>Premium Charger<\/p>",
             "link_label": "",
             "link": ""
           }
