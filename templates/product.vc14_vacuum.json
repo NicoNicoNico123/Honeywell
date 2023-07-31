@@ -591,8 +591,9 @@
         "b693676b-ccfb-494e-bdb2-fc06f108dc3d": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/HONEYWELL_VC14_22.png",
+            "title": "",
+            "text": "<p>Deluxe 2-in-1 Sofa Brush<\/p>",
             "link_label": "",
             "link": ""
           }
