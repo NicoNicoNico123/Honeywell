@@ -510,9 +510,9 @@
         "template--16642955608292__473c6e2e-5d90-488c-8e56-8d8a46a03757-16710751757c2675d1-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/FC20body.png",
+            "image": "shopify:\/\/shop_images\/VC10_Body.png",
             "title": "",
-            "text": "<p>With 50W Motorized Power Scrubber & Stainless Steel <br\/>Spray Nozzle<\/p>",
+            "text": "<p>Handheld Body<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -520,9 +520,9 @@
         "30322f2c-79c5-4a4f-af15-e7aece698135": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/rollers.png",
+            "image": "shopify:\/\/shop_images\/VC10_Part_tube.png",
             "title": "",
-            "text": "<p>Two Easy-Change Power Scrub Rollers for Multi-Surface Hard Floors. <\/p>",
+            "text": "<p>Aluminum Extension Tube<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -530,9 +530,9 @@
         "d73bdf2d-33a3-4b10-bcab-14142fae4680": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/filter.png",
+            "image": "shopify:\/\/shop_images\/VC10_Part_Stretch_hose.png",
             "title": "",
-            "text": "<p>Two Wet\/Dry Filters<\/p>",
+            "text": "<p>Flexible \/ Stretch Hose<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -540,9 +540,9 @@
         "4d07c573-1184-4d01-9727-58959557cb16": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Short_Cleaning_Brush_with_Cutter_276e20f5-0173-4a36-b01a-7d21572dfebd.png",
+            "image": "shopify:\/\/shop_images\/VC10_Part_Soft_Roller.png",
             "title": "",
-            "text": "<p>Short Cleaning Brush with Cutter<\/p>",
+            "text": "<p>Tangle-Resistant Motorized Soft Roller with Natural Brite White LED Lights <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -550,9 +550,9 @@
         "6e3aa1f1-f561-4bb3-8b14-2cda62f257e3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Longer_Cleaning_Brush_with_Bristles.png",
+            "image": "shopify:\/\/shop_images\/VC10_Part_Carpet_brush.png",
             "title": "",
-            "text": "<p>Longer Cleaning Brush with Bristles<\/p>",
+            "text": "<p>Tangle-Resistant Motorized Carpet Roller with Carpet Friendly Softer Bristles & Composite Strip (No LED)<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -560,9 +560,9 @@
         "78bea8d2-4683-465b-86ee-1d876ac86b21": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Easy-Change_High-Capacity_Battery_Pack.png",
+            "image": "shopify:\/\/shop_images\/VC10_Part_2-in-1_crevice_tool.png",
             "title": "",
-            "text": "<p>Easy-Change, High-Capacity Battery Pack<\/p>",
+            "text": "<p>Deluxe 2-in-1 Crevice Tool<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -570,9 +570,49 @@
         "0d0d399f-9604-41c9-9e64-8b5e9aea28e6": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Charger.png",
+            "image": "shopify:\/\/shop_images\/VC10_Part_Soft_hairbrush.png",
             "title": "",
-            "text": "<p>Charger (ETL)<\/p>",
+            "text": "<p>Deluxe Soft Hairbrush<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "f085195a-93df-4ef9-9231-3b1a294b43b2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/VC10_Part_connector.png",
+            "title": "",
+            "text": "<p>Bendable Connector<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "fe8350f1-92d3-453c-962a-7ed96a8dd04c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/VC10_Part_Pet_hair_removal_brush.png",
+            "title": "",
+            "text": "<p>Deluxe Pet Hair Removal Brush<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "b5617e17-5494-406b-a9be-12d3b36478ab": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/VC10_Part_Cleaning_Brush.png",
+            "title": "",
+            "text": "<p>Cleaning Brush with Cutter <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "dbe685bb-74a0-424e-9ed8-8cdf94f3a416": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/VC10_Part_Battery.png",
+            "title": "",
+            "text": "<p>Easy-Change, High-Capacity          Lithium-Ion Battery Pack<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -580,9 +620,19 @@
         "bdf5b48e-48c1-4c03-86a7-d5bf6e8b4778": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Easy-Charge_Base_and_Accessory_Storage.png",
+            "image": "shopify:\/\/shop_images\/VC10_Part_charger.png",
             "title": "",
-            "text": "<p>Easy-Charge Base and Accessory Storage<\/p>",
+            "text": "<p>Charger<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0963955e-524b-4372-beac-c848abfe0d5c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/VC10_Part_Wall_dock.png",
+            "title": "",
+            "text": "<p>Wall Dock<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -592,7 +642,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Two_2_Multi_Surface_Floor_Cleaner_Bottles.png",
             "title": "",
-            "text": "<p>Two  Multi Surface Floor Cleaner Bottles 480 mL each (960 mL Total)<\/p>",
+            "text": "<p>User Manual<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -606,7 +656,12 @@
         "6e3aa1f1-f561-4bb3-8b14-2cda62f257e3",
         "78bea8d2-4683-465b-86ee-1d876ac86b21",
         "0d0d399f-9604-41c9-9e64-8b5e9aea28e6",
+        "f085195a-93df-4ef9-9231-3b1a294b43b2",
+        "fe8350f1-92d3-453c-962a-7ed96a8dd04c",
+        "b5617e17-5494-406b-a9be-12d3b36478ab",
+        "dbe685bb-74a0-424e-9ed8-8cdf94f3a416",
         "bdf5b48e-48c1-4c03-86a7-d5bf6e8b4778",
+        "0963955e-524b-4372-beac-c848abfe0d5c",
         "b1788ba2-6401-4f05-9e9d-048b4ae162cc"
       ],
       "settings": {
