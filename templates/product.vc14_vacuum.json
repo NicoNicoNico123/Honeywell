@@ -661,16 +661,6 @@
             "link": ""
           }
         },
-        "0d0d399f-9604-41c9-9e64-8b5e9aea28e6": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Charger.png",
-            "title": "",
-            "text": "<p>Charger <\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "bdf5b48e-48c1-4c03-86a7-d5bf6e8b4778": {
           "type": "column",
           "settings": {
@@ -745,7 +735,6 @@
         "55f199a0-e1bd-457b-a807-6522c8ca4923",
         "9d1b5fd9-20e9-4fe9-8308-95b0c51e8efd",
         "3b591c65-69ca-4689-901d-9ed33a6d4f80",
-        "0d0d399f-9604-41c9-9e64-8b5e9aea28e6",
         "bdf5b48e-48c1-4c03-86a7-d5bf6e8b4778",
         "4d07c573-1184-4d01-9727-58959557cb16",
         "6e3aa1f1-f561-4bb3-8b14-2cda62f257e3",
