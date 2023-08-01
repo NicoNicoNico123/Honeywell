@@ -281,7 +281,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/FC15_keys_04.png",
             "title": "",
-            "text": "<p>Patent Pending Design<br\/>Easily Separates Wet & Dry Waste<\/p>",
+            "text": "<p>High efficiency cleaning with separate large clean and dirty water tanks. Patent-pending design separates wet and dry waste for easy emptying.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -291,7 +291,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/FC15_keys_02.png",
             "title": "",
-            "text": "<p>Vacuum and Wash at Same Time<\/p>",
+            "text": "<p>Vacuum and wash hard floors at same time for easier cleaning!<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -301,7 +301,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/FC15_keys_13.png",
             "title": "",
-            "text": "<p>Quick Clean-Up<\/p>",
+            "text": "<p>Great for quick clean-ups on carpet without water.*<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -311,7 +311,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/FC15_keys_03.png",
             "title": "",
-            "text": "<p>Power Scrub with Soft Roller<\/p>",
+            "text": "<p>Motorized multi-surface power scrub soft roller included for deeper cleaning.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -321,7 +321,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/FC15_keys_06.png",
             "title": "",
-            "text": "<p>Easy Store and Charge<\/p>",
+            "text": "<p>Easily store, charge and self-clean with the easy-charge base.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -331,7 +331,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/FC15_keys_07.png",
             "title": "",
-            "text": "<p>Easy to Fill<\/p>",
+            "text": "<p>Easy to fill using water and Honeywell multi-surface floor cleaner for superior cleaning.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -341,7 +341,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/FC15_keys_10.png",
             "title": "",
-            "text": "<p>Smart Auto Clean Mode<\/p>",
+            "text": "<p>Advanced technology LED display provides access to features like smart auto clean mode and intelligent voice prompts for simple and easy operation. <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -351,7 +351,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/FC15_keys_14.png",
             "title": "",
-            "text": "<p>Self-Clean Mode<\/p>",
+            "text": "<p>Self-clean mode for easy maintenance!<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -359,9 +359,9 @@
         "62c0fa2c-ec5c-4c63-b631-0ba70c6b5855": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/FC15_keys_15.png",
+            "image": "shopify:\/\/shop_images\/FC15_keys_01.png",
             "title": "",
-            "text": "<p>Deep Clean with Powerful Motor<\/p>",
+            "text": "<p>Advanced technology in smart auto clean mode helps optimize suction power to achieve efficient and convenient cleaning.<\/p>",
             "link_label": "",
             "link": ""
           }
