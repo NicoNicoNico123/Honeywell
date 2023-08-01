@@ -309,9 +309,9 @@
         "5d4a6e9e-c23d-478e-b2d6-33b9edfc2275": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/HONEYWELL_FC20_06.png",
+            "image": "shopify:\/\/shop_images\/FC20_LED.png",
             "title": "",
-            "text": "<p> Up to 35 min runtime<\/p>",
+            "text": "<p>Smart Auto Clean Mode<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -339,9 +339,9 @@
         "e2d0f502-eb08-4d54-aace-7d7ab8c2730b": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/HONEYWELL_FC20_08_dff2e2c6-3705-45df-b4da-3a3e4b88290f.png",
+            "image": "shopify:\/\/shop_images\/FC20_Lifestyle_Easy_to_fill.jpg",
             "title": "",
-            "text": "<p>Patent Pending Design<br\/>Easily Separates Wet & Dry Waste<\/p>",
+            "text": "<p>Easy to Fill<\/p>",
             "link_label": "",
             "link": ""
           }
