@@ -462,8 +462,8 @@
           "settings": {
             "heading": "Dimensions\/Weights",
             "icon": "none",
-            "columns_desktop": 3,
-            "row_content_1": "<p><strong>Product (W x D x H)<\/strong> 13.9” x 13.5” x 46.5” (35.4 x 34.3 x 118.2 cm)<br\/><strong>Shipping (W x D x H)<\/strong> 30.3” x 16.1” x 11” (77 x 41 x 28 cm)<br\/><strong>Net Product Weight (w\/o accessories)<\/strong> 11.9 lbs (5.4 kg)<br\/><strong>Shipping Weight (pkg)<\/strong> 25.9 lbs (11.8 kg)<\/p>",
+            "columns_desktop": 1,
+            "row_content_1": "<p><strong>Product (W x D x H)<\/strong> 10.1” x 9” x 46”  (25.7 x 23  x 117 cm)<br\/><strong>Shipping (W x D x H)<\/strong> 13.4” x 6.3” x 30.1” (34 x 16 x 76.5 cm)<br\/><strong>Net Product Weight (w\/o accessories)<\/strong> 5.5 lbs  (2.5 kg)<br\/><strong>Shipping Weight (pkg)<\/strong> 13.7 lbs  (6.2 kg)<\/p>",
             "row_content_2": "",
             "row_content_3": ""
           }
@@ -473,7 +473,7 @@
           "settings": {
             "heading": "Warranty\/UserManual",
             "icon": "none",
-            "columns_desktop": 3,
+            "columns_desktop": 1,
             "row_content_1": "<p><strong>LIMITED WARRANTY (USA & CANADA)<\/strong><br\/>Parts & Labor 2 years<\/p><p><a href=\"https:\/\/1drv.ms\/b\/s!AkAshu1YOYmckCRxUsKQjt4jygUt\" target=\"_blank\" title=\"Instruction manual\">Instruction manual<\/a><\/p>",
             "row_content_2": "",
             "row_content_3": ""
@@ -630,7 +630,7 @@
         "template--16647714996452__4fa12abf-b1ce-471e-998a-851be4572175-1671429038b3eefe6d-1": {
           "type": "text",
           "settings": {
-            "text": "<p>*Run time and Air Watts (AW) may vary based on usage, power mode, floor type, dust levels and\/or attachments\/tools being used. Design, features, content and specifications may vary by product and are subject to change without notice. Weights and measurements are approximate. Runtime may vary based on usage. Information for reference purposes only. Not responsible for typographical errors. Please refer to user manual for complete details. For residential use only.<\/p>"
+            "text": "<p>*Design, features, content and specifications may vary by product and are subject to change without notice. Weights and measurements are approximate. Runtime and Air Watts may vary based on usage. Tangle-resistant design may not work on all surfaces and\/or types of hair. Information for reference purposes only. Not responsible for typographical errors. Please refer to user manual for complete details. For residential use only.<\/p>"
           }
         }
       },
