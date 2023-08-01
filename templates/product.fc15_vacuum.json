@@ -596,6 +596,16 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "f98eb4fd-1e9c-4385-9a7d-8222c62ebf7c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FC15_User_Manual_Cover_920bf6e7-cb12-4339-a5f7-8af26d748e31.png",
+            "title": "",
+            "text": "<p>User Manual<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -607,7 +617,8 @@
         "78bea8d2-4683-465b-86ee-1d876ac86b21",
         "0d0d399f-9604-41c9-9e64-8b5e9aea28e6",
         "bdf5b48e-48c1-4c03-86a7-d5bf6e8b4778",
-        "b1788ba2-6401-4f05-9e9d-048b4ae162cc"
+        "b1788ba2-6401-4f05-9e9d-048b4ae162cc",
+        "f98eb4fd-1e9c-4385-9a7d-8222c62ebf7c"
       ],
       "settings": {
         "title": "In the Box",
