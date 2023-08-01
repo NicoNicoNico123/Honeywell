@@ -476,8 +476,8 @@
             "icon": "none",
             "columns_desktop": 3,
             "row_content_1": "<h4><strong>Type<\/strong> <\/h4><p>Cordless Stick + Detachable Handheld<\/p><h4><strong>Color <\/strong><\/h4><p>Graphite\/Red<\/p><h4>Voltage<\/h4><p>28.8V<\/p><h4>Battery<\/h4><p>High Capacity Li-ion<\/p><h4>Motor<\/h4><p>Synchronized Digital Motor<\/p>",
-            "row_content_2": "<h4>Power<\/h4><p>~630W　　　　　<\/p><p>　<\/p><h4>Filter<\/h4><p>HEPA<\/p><h4>Air Watts (Suction)<\/h4><p>up to 220AW<\/p><h4>Cyclone System<\/h4><p>Multi-cyclone<\/p>",
-            "row_content_3": "<h4>LED Display <\/h4><p>Yes<\/p><p>　<\/p><h4>Charging Time<\/h4><p>~3H+ <\/p><h4>Running Time<\/h4><p>Eco: up to 70 min; Turbo Max: up to 17 min<\/p><h4>Dust Capacity<\/h4><p>up to 600 mL<\/p><h4>Certifications<\/h4><p>ETL\/cETL<\/p>"
+            "row_content_2": "<h4>Power<\/h4><p>~630W　　　　　<\/p><h4>Filter<\/h4><p>HEPA<\/p><h4>Air Watts (Suction)<\/h4><p>up to 220AW<\/p><h4>Cyclone System<\/h4><p>Multi-cyclone<\/p><h4>LED Display <\/h4><p>Yes<\/p>",
+            "row_content_3": "<h4>Charging Time<\/h4><p>~3H+ <\/p><h4>Running Time<\/h4><p>Eco: up to 70 min<\/p><p>Turbo Max: up to 17 min<\/p><h4>Dust Capacity<\/h4><p>up to 600 mL<\/p><h4>Certifications<\/h4><p>ETL\/cETL<\/p>"
           }
         },
         "82a64515-adb7-4300-86ca-7d420ab6e655": {
@@ -486,7 +486,7 @@
             "heading": "Details",
             "icon": "none",
             "columns_desktop": 1,
-            "row_content_1": "<p>• Handheld with ten tools for better, easier cleaning<br\/>• Lightweight, cordless design is easy to use and carry <br\/>around. Clean every corner effortlessly and conveniently<br\/>• 630W Synchronized Digital Motor up to 220AW. <br\/>Extreme Suction...Vacuum Faster & Cleaner!<br\/>• Innovative tangle-resistant design makes <br\/>vacuuming a little more enjoyable*<br\/>• Centrifugal force created inside the deluxe dustbin <br\/>provides up to 99.9% dust and air separation<br\/>• Dual Pro High-Efficiency Filter System<br\/>• Ergonomic Wellness Design <br\/>• Easy-Change, High-Capacity Battery Pack<br\/>• Smart Auto Clean Mode<br\/>• Easy One-Press Disposal<br\/>• Easy One-Touch Control<br\/>• Natural Brite White LED Lights on Soft Roller<br\/>• Deluxe Pet Hair Removal Brush<br\/>• Wall Mount Docking Station<\/p>",
+            "row_content_1": "<p>• Handheld with ten tools for better, easier cleaning<br\/>• Lightweight, cordless design is easy to use and carry around. Clean every corner effortlessly and conveniently<br\/>• 630W Synchronized Digital Motor up to 220AW. Extreme Suction...Vacuum Faster & Cleaner!<br\/>• Innovative tangle-resistant design makes vacuuming a little more enjoyable*<br\/>• Centrifugal force created inside the deluxe dustbin provides up to 99.9% dust and air separation<br\/>• Dual Pro High-Efficiency Filter System<br\/>• Ergonomic Wellness Design <br\/>• Easy-Change, High-Capacity Battery Pack<br\/>• Smart Auto Clean Mode<br\/>• Easy One-Press Disposal<br\/>• Easy One-Touch Control<br\/>• Natural Brite White LED Lights on Soft Roller<br\/>• Deluxe Pet Hair Removal Brush<br\/>• Wall Mount Docking Station<\/p>",
             "row_content_2": "",
             "row_content_3": ""
           }
@@ -496,8 +496,8 @@
           "settings": {
             "heading": "Dimensions\/Weights",
             "icon": "none",
-            "columns_desktop": 3,
-            "row_content_1": "<p><strong>Product (W x D x H)<\/strong> 10” x 11” x 47” (25.5 x 27.8 x 119 cm)<br\/><strong>Shipping (W x D x H)<\/strong> 30.5” x 11.6” x 7.3” (77.5 x 29.5 x 18.5 cm)<br\/><strong>Net Product Weight (w\/o accessories)<\/strong> 6.4 lbs (2.9 kg)<br\/><strong>Shipping Weight (pkg)<\/strong> 215.4 lbs (7.0 kg)<\/p>",
+            "columns_desktop": 1,
+            "row_content_1": "<p><strong>Product (W x D x H)<\/strong> 10” x 11” x 46.9”  (25.5 x 27.8 x 119 cm)  <br\/><strong>Shipping (W x D x H)<\/strong> 11.6” x 7.3” x 30.5” (29.5 x 18.5 x 77.5 cm)<br\/><strong>Net Product Weight (w\/o accessories)<\/strong> 6.4 lbs (2.9 kg)<br\/><strong>Shipping Weight (pkg)<\/strong> 15.4 lbs (7 kg)<\/p>",
             "row_content_2": "",
             "row_content_3": ""
           }
@@ -507,7 +507,7 @@
           "settings": {
             "heading": "Warranty\/UserManual",
             "icon": "none",
-            "columns_desktop": 3,
+            "columns_desktop": 1,
             "row_content_1": "<p><strong>LIMITED WARRANTY (USA & CANADA)<\/strong><br\/>Parts & Labor 2 years<\/p><p><a href=\"https:\/\/1drv.ms\/b\/s!AkAshu1YOYmckCRxUsKQjt4jygUt\" target=\"_blank\" title=\"Instruction manual\">Instruction manual<\/a><\/p>",
             "row_content_2": "",
             "row_content_3": ""
