@@ -452,7 +452,7 @@
             "heading": "Details",
             "icon": "none",
             "columns_desktop": 1,
-            "row_content_1": "<p>• Professional 3-in-1 Floor Cleaner: Precision Spray, Power<br\/>• Scrub and Vacuum. Great for Home or Small Offices!<br\/>• High Suction Synchronized Digital Wet & Dry Motor<br\/>• Vacuum and Wash Hard Floors at Same Time<br\/>• Great for Hard Floors or Quick Clean-Ups on Carpet*<br\/>• Patent Pending Design Easily Separates Wet & Dry Waste<br\/>• Commercial Grade Metal Side Side Supports<br\/>• Easily Store, Charge, and Self-Clean<br\/>• Easy-Change, High-Capacity Battery Pack<br\/>• Up to 35 Minutes Runtime*<br\/>• Easy to Fill<br\/>• LED Display<br\/>• Self-Clean Mode<br\/>• Smart Auto Clean Mode<br\/>• Intelligent Voice Prompts<br\/>• Easy-Charge Base with Accessory Storage Included<br\/>• Bonus: 2 Power Scrub Rollers, 2 Wet\/Dry Filters, and 2 Multi-Surface Floor Cleaner Bottles (960 mL total) Included<\/p>",
+            "row_content_1": "<p>• Professional 3-in-1 Floor Cleaner: Precision Spray, Power Scrub and Vacuum. Great for Home or Small Offices!<br\/>• High Suction Synchronized Digital Wet & Dry Motor<br\/>• Vacuum and Wash Hard Floors at Same Time<br\/>• Great for Hard Floors or Quick Clean-Ups on Carpet*<br\/>• Patent Pending Design Easily Separates Wet & Dry Waste<br\/>• Commercial Grade Metal Side Side Supports<br\/>• Easily Store, Charge, and Self-Clean<br\/>• Easy-Change, High-Capacity Battery Pack<br\/>• Up to 35 Minutes Runtime*<br\/>• Easy to Fill<br\/>• LED Display<br\/>• Self-Clean Mode<br\/>• Smart Auto Clean Mode<br\/>• Intelligent Voice Prompts<br\/>• Easy-Charge Base with Accessory Storage Included<br\/>• Bonus: 2 Power Scrub Rollers, 2 Wet\/Dry Filters, and 2 Multi-Surface Floor Cleaner Bottles (960 mL total) Included<\/p>",
             "row_content_2": "",
             "row_content_3": ""
           }
@@ -462,7 +462,7 @@
           "settings": {
             "heading": "Dimensions\/Weights",
             "icon": "none",
-            "columns_desktop": 3,
+            "columns_desktop": 1,
             "row_content_1": "<p><strong>Product (W x D x H)<\/strong> 13.9” x 13.5” x 46.5” (35.4 x 34.3 x 118.2 cm)<br\/><strong>Shipping (W x D x H)<\/strong> 30.3” x 16.1” x 11” (77 x 41 x 28 cm)<br\/><strong>Net Product Weight (w\/o accessories)<\/strong> 11.9 lbs (5.4 kg)<br\/><strong>Shipping Weight (pkg)<\/strong> 25.9 lbs (11.8 kg)<\/p>",
             "row_content_2": "",
             "row_content_3": ""
@@ -473,7 +473,7 @@
           "settings": {
             "heading": "Warranty\/UserManual",
             "icon": "none",
-            "columns_desktop": 3,
+            "columns_desktop": 1,
             "row_content_1": "<p><strong>LIMITED WARRANTY (USA & CANADA)<\/strong><br\/>Parts & Labor 2 years<\/p><p><a href=\"https:\/\/1drv.ms\/b\/s!AkAshu1YOYmckCRxUsKQjt4jygUt\" target=\"_blank\" title=\"Instruction manual\">Instruction manual<\/a><\/p>",
             "row_content_2": "",
             "row_content_3": ""
@@ -552,7 +552,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Longer_Cleaning_Brush_with_Bristles.png",
             "title": "",
-            "text": "<p>Longer Cleaning Brush with Bristles<\/p>",
+            "text": "<p>Long Cleaning Brush with Bristles<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -572,7 +572,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Charger.png",
             "title": "",
-            "text": "<p>Charger (ETL)<\/p>",
+            "text": "<p>Charger <\/p>",
             "link_label": "",
             "link": ""
           }
