@@ -666,7 +666,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Charger.png",
             "title": "",
-            "text": "<p>Charger (ETL)<\/p>",
+            "text": "<p>Charger <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -696,7 +696,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Longer_Cleaning_Brush_with_Bristles.png",
             "title": "",
-            "text": "<p>Longer Cleaning Brush with Bristles<\/p>",
+            "text": "<p>Long Cleaning Brush with Bristles<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -774,7 +774,7 @@
         "template--16647714996452__4fa12abf-b1ce-471e-998a-851be4572175-1671429038b3eefe6d-1": {
           "type": "text",
           "settings": {
-            "text": "<p>*Run time and Air Watts (AW) may vary based on usage, power mode, floor type, dust levels and\/or attachments\/tools being used. Design, features, content and specifications may vary by product and are subject to change without notice. Weights and measurements are approximate. Runtime may vary based on usage. Information for reference purposes only. Not responsible for typographical errors. Please refer to user manual for complete details. For residential use only.<\/p>"
+            "text": "<p>*Design, features, content and specifications may vary by product and are subject to change without notice. Weights and measurements are approximate. Runtime and Air Watts may vary based on usage. Tangle-resistant design may not work on all surfaces and\/or types of hair. Information for reference purposes only. Not responsible for typographical errors. Please refer to user manual for complete details. For residential use only.<\/p>"
           }
         }
       },
