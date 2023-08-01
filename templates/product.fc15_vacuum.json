@@ -441,9 +441,9 @@
             "heading": " Specifications",
             "icon": "none",
             "columns_desktop": 3,
-            "row_content_1": "<h4><strong>Type<\/strong> <\/h4><p>Cordless Floor Cleaner<\/p><h4><strong>Color <\/strong><\/h4><p>Graphite<\/p><h4>Voltage<\/h4><p>28.8V<\/p><h4>Running Time<\/h4><p>up to 30 minutes<\/p><h4>Certifications<\/h4><p>ETL\/cETL<\/p>",
-            "row_content_2": "<h4>Battery<\/h4><p>High Capacity Li-ion<\/p><h4>Motor <\/h4><p>Synchronized Digital Wet & Dry Motor<\/p><h4>Power <\/h4><p>~300W (250W Motor + 50W Motorized Power Scrub Roller)<\/p><h4>Clean Water Tank Volume<\/h4><p>0.65 L<\/p><p><\/p>",
-            "row_content_3": "<h4>Filter <\/h4><p>Wet & Dry Filter + Sponge<\/p><h4>LED Display <\/h4><p>Yes<\/p><h4>Charging Time <\/h4><p>~4 hours<\/p><h4>Dirty Water Tank Volume<\/h4><p>0.7 L<\/p>"
+            "row_content_1": "<h4><strong>Type<\/strong> <\/h4><p>Cordless Floor Cleaner<\/p><h4><strong>Color <\/strong><\/h4><p>Graphite<\/p><h4>Voltage<\/h4><p>28.8V<\/p><h4>Battery<\/h4><p>High Capacity Li-ion<\/p><p><\/p>",
+            "row_content_2": "<h4>Motor <\/h4><p>Synchronized Digital Wet & Dry Motor<\/p><h4>Power <\/h4><p>~300W (250W Motor + 50W Motorized Power Scrub Roller)<\/p><h4>Filter <\/h4><p>Wet & Dry Filter + Sponge<\/p><h4>LED Display <\/h4><p>Yes<\/p><p><\/p>",
+            "row_content_3": "<h4>Charging Time <\/h4><p>~4 hours<\/p><h4>Running Time<\/h4><p>up to 30 minutes<\/p><h4>Clean Water Tank Volume<\/h4><p>0.65 L<\/p><h4>Dirty Water Tank Volume<\/h4><p>0.7 L<\/p><h4>Certifications<\/h4><p>ETL\/cETL<\/p><p><\/p>"
           }
         },
         "82a64515-adb7-4300-86ca-7d420ab6e655": {
@@ -452,7 +452,7 @@
             "heading": "Details",
             "icon": "none",
             "columns_desktop": 1,
-            "row_content_1": "<p>• Professional 3-in-1 Floor Cleaner: Precision Spray, Power <br\/>Scrub and Vacuum. Great for Home or Small Offices!<br\/>• High Suction Synchronized Digital Wet & Dry Motor <br\/>• Vacuum and Wash Hard Floors at Same Time<br\/>• Great for Hard Floors or Quick Clean-Ups on Carpet*<br\/>• Patent Pending Design Easily Separates Wet & Dry Waste <br\/>• Easily Store, Charge, and Self-Clean <br\/>• Easy-Change, High-Capacity Battery Pack<br\/>• Up to 30 Minutes Runtime*<br\/>• Easy to Fill<br\/>• LED Display<br\/>• Self-Clean Mode<br\/>• Smart Auto Clean Mode<br\/>• Intelligent Voice Prompts<br\/>• Easy-Charge Base with Accessory Storage Included<br\/>• Bonus: 2 Power Scrub Rollers, 2 Wet\/Dry Filters, <br\/>and 2 Multi-Surface Floor Cleaner <br\/>Bottles (960 mL total) Included<\/p>",
+            "row_content_1": "<p>• Professional 3-in-1 Floor Cleaner: Precision Spray, Power Scrub and Vacuum. Great for Home or Small Offices!<br\/>• High Suction Synchronized Digital Wet & Dry Motor <br\/>• Vacuum and Wash Hard Floors at Same Time<br\/>• Great for Hard Floors or Quick Clean-Ups on Carpet*<br\/>• Patent Pending Design Easily Separates Wet & Dry Waste <br\/>• Easily Store, Charge, and Self-Clean <br\/>• Easy-Change, High-Capacity Battery Pack<br\/>• Up to 30 Minutes Runtime*<br\/>• Easy to Fill<br\/>• LED Display<br\/>• Self-Clean Mode<br\/>• Smart Auto Clean Mode<br\/>• Intelligent Voice Prompts<br\/>• Easy-Charge Base with Accessory Storage Included<br\/>• Bonus: 2 Power Scrub Rollers, 2 Wet\/Dry Filters,  and 2 Multi-Surface Floor Cleaner  Bottles (960 mL total) Included<\/p>",
             "row_content_2": "",
             "row_content_3": ""
           }
@@ -463,7 +463,7 @@
             "heading": "Dimensions\/Weights",
             "icon": "none",
             "columns_desktop": 1,
-            "row_content_1": "<p><strong>Product (W x D x H)<\/strong> 9.6” x 10.6” x 45.3” (24.5 x 27 x 115 cm)<br\/><strong>Shipping (W x D x H)<\/strong> 33.1” x 8.9” x 13.4” (84 x 22.5 x 34 cm)<br\/><strong>Net Product Weight (w\/o accessories)<\/strong> 14.1 lbs (6.4 kg)<br\/><strong>Shipping Weight (pkg)<\/strong> 21.4 lbs (9.7 kg)<\/p>",
+            "row_content_1": "<p><strong>Product (W x D x H)<\/strong> 9.6” x 10.6” x 45.3” (24.5 x 27 x 115 cm)<br\/><strong>Shipping (W x D x H)<\/strong> 33.1” x 8.9” x 13.4” (84 x 22.5 x 34 cm)<br\/><strong>Net Product Weight (w\/o accessories)<\/strong> 9.5 lbs (4.3 kg)<br\/><strong>Shipping Weight (pkg)<\/strong> 21.4 lbs (9.7 kg)<\/p>",
             "row_content_2": "",
             "row_content_3": ""
           }
@@ -473,7 +473,7 @@
           "settings": {
             "heading": "Warranty\/UserManual",
             "icon": "none",
-            "columns_desktop": 3,
+            "columns_desktop": 1,
             "row_content_1": "<p><strong>LIMITED WARRANTY (USA & CANADA)<\/strong><br\/>Parts & Labor 2 years<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0665\/3834\/0580\/files\/FC15_SW305_IM_User_Manual_ENG_FR_ES_21April2023.pdf?v=1690363248\" target=\"_blank\" title=\"FC15_IM\">Instruction manual<\/a><\/p>",
             "row_content_2": "",
             "row_content_3": ""
@@ -512,7 +512,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/FC15_Square.png",
             "title": "",
-            "text": "<p>With 50W Motorized Power Scrubber & Stainless Steel <br\/>Spray Nozzle<\/p>",
+            "text": "<p>FC15 ULTAMAX ELITE with 50W Motorized Power Scrub Soft Roller & Spray Nozzle<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -522,7 +522,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/rollers.png",
             "title": "",
-            "text": "<p>Two Easy-Change Power Scrub Rollers for Multi-Surface Hard Floors. <\/p>",
+            "text": "<p>Two (2) Easy-Change Power Scrub Rollers for Multi-Surface Hard Floors. <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -532,7 +532,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/filter.png",
             "title": "",
-            "text": "<p>Two Wet\/Dry Filters<\/p>",
+            "text": "<p>Two (2) Wet\/Dry Filters<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -552,7 +552,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Longer_Cleaning_Brush_with_Bristles.png",
             "title": "",
-            "text": "<p>Longer Cleaning Brush with Bristles<\/p>",
+            "text": "<p>Long Cleaning Brush with Bristles<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -560,7 +560,7 @@
         "78bea8d2-4683-465b-86ee-1d876ac86b21": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Easy-Change_High-Capacity_Battery_Pack.png",
+            "image": "shopify:\/\/shop_images\/FC15_Part_Battery.png",
             "title": "",
             "text": "<p>Easy-Change, High-Capacity Battery Pack<\/p>",
             "link_label": "",
@@ -572,7 +572,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Charger.png",
             "title": "",
-            "text": "<p>Charger (ETL)<\/p>",
+            "text": "<p>Charger <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -592,7 +592,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Two_2_Multi_Surface_Floor_Cleaner_Bottles.png",
             "title": "",
-            "text": "<p>Two  Multi Surface Floor Cleaner Bottles 480 mL each (960 mL Total)<\/p>",
+            "text": "<p>Two (2) Multi Surface Floor Cleaner Bottles 480 mL each (960 mL Total)<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -630,7 +630,7 @@
         "template--16647714996452__4fa12abf-b1ce-471e-998a-851be4572175-1671429038b3eefe6d-1": {
           "type": "text",
           "settings": {
-            "text": "<p>*Run time and Air Watts (AW) may vary based on usage, power mode, floor type, dust levels and\/or attachments\/tools being used. Design, features, content and specifications may vary by product and are subject to change without notice. Weights and measurements are approximate. Runtime may vary based on usage. Information for reference purposes only. Not responsible for typographical errors. Please refer to user manual for complete details. For residential use only.<\/p>"
+            "text": "<p>*Design, features, content and specifications may vary by product and are subject to change without notice. Weights and measurements are approximate. Runtime may vary based on usage. Information for reference purposes only. Not responsible for typographical errors. Please refer to user manual for complete details. For residential use only.<\/p>"
           }
         }
       },
