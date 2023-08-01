@@ -174,7 +174,7 @@
         "settings": {
           "color_scheme": "accent-1",
           "newsletter_enable": true,
-          "newsletter_heading": "Newsletter",
+          "newsletter_heading": "Updates",
           "show_social": false,
           "enable_country_selector": false,
           "enable_language_selector": false,
