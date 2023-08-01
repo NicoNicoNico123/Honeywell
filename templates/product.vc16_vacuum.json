@@ -15,13 +15,6 @@
           "settings": {
           }
         },
-        "b7e3f843-c30b-4250-910d-4ffa3f63df83": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.metafields.descriptors.subtitle.value }}",
-            "text_style": "body"
-          }
-        },
         "19c4612a-c131-4905-9ecf-ef3a89a84896": {
           "type": "price",
           "disabled": true,
@@ -102,7 +95,6 @@
       "block_order": [
         "vendor",
         "title",
-        "b7e3f843-c30b-4250-910d-4ffa3f63df83",
         "19c4612a-c131-4905-9ecf-ef3a89a84896",
         "af79ac76-f26c-4779-8ff9-8f3b170a7bcf",
         "92e65a59-4c0d-411f-8467-a5f46190573b",
@@ -259,7 +251,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/HONEYWELL_VC16_01.png",
             "title": "",
-            "text": "<p>Innovative 600W Synchronized Digital Motor up to 185 AW Powerful Suction<\/p>",
+            "text": "<p>Synchronized 600W digital motor’s advanced technology designed to help deliver powerful suction up to 185 air watts and maximize energy efficiency.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -269,7 +261,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/HONEYWELL_VC16_02.png",
             "title": "",
-            "text": "<p>High-Capacity Battery Pack up to 60 minutes*<\/p>",
+            "text": "<p>Easy-change, high-capacity battery pack provides up to 60 minutes of run time.* <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -279,7 +271,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/HONEYWELL_VC16_04.png",
             "title": "",
-            "text": "<p>Full length Natural Brite White LED Light Strip <br\/>for Better Clarity<\/p>",
+            "text": "<p>The centrifugal force created inside the advanced cyclonic tank design combined with the HEPA filter provides up to 99.9% dust and air separation. ISC Technology provides superior self-cleaning helping maintain efficiency of HEPA filter.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -289,7 +281,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/HONEYWELL_VC16_05.png",
             "title": "",
-            "text": "<p>Tangle-resistant soft roller with brite white LED light strip for hard floors<\/p>",
+            "text": "<p>Innovative tangle-resistant soft roller with full length natural brite white LED light makes vacuuming a little more enjoyable*<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -299,7 +291,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/HONEYWELL_VC16_06.png",
             "title": "",
-            "text": "<p>Tangle-resistant carpet roller with brite white LED light strip<\/p>",
+            "text": "<p>Tangle-resistant carpet roller with brite white LED light strip great on hard floors and carpets!<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -309,7 +301,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/HONEYWELL_VC16_07.png",
             "title": "",
-            "text": "<p>Deluxe soft hairbrush<\/p>",
+            "text": "<p>Deluxe soft hairbrush is great on furniture!<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -319,7 +311,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/HONEYWELL_VC16_08.png",
             "title": "",
-            "text": "<p>Great for hard-to-reach areas, under chairs, and more<\/p>",
+            "text": "<p>Multiple tools make it easy to access hard-to-reach areas, under chairs, and more!<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -329,7 +321,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/HONEYWELL_VC16_09.png",
             "title": "",
-            "text": "<p> 2-in-1 crevice tool<\/p>",
+            "text": "<p> 2-in-1 crevice tool is great for tight spaces!<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -339,7 +331,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/HONEYWELL_VC16_14.png",
             "title": "",
-            "text": "<p>Great for dusting<\/p>",
+            "text": "<p>Dust everywhere with the deluxe soft hairbrush!<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -349,7 +341,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/HONEYWELL_VC16_10.png",
             "title": "",
-            "text": "<p>Patent-pending motorized rotary brush<\/p>",
+            "text": "<p>Patent-pending motorized rotary brush helps improve cleaning efficiency.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -359,7 +351,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/HONEYWELL_VC16_11.png",
             "title": "",
-            "text": "<p>Easily store when done<\/p>",
+            "text": "<p>Easily store when done.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -369,7 +361,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/HONEYWELL_VC16_12.png",
             "title": "",
-            "text": "<p>LED spot light illuminates dirty areas<\/p>",
+            "text": "<p>LED spot light illuminates dirty areas for even greater clarity!<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -379,7 +371,26 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/HONEYWELL_VC16_13.png",
             "title": "",
-            "text": "<p>Slide speed variable control<\/p>",
+            "text": "<p><strong>Easy one-touch control <\/strong>with advanced LCD display. Easily control the speed and power with a touch of the hand with slide speed variable control.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "c048840b-13ff-4e7c-9d10-6f5491a93efa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/VC16_Body_scented_bead_holder_silver.png",
+            "title": "",
+            "text": "<p>Scented beads included for a more pleasant aroma.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "cc96c940-4481-4f25-8a65-207b6b7cdc16": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Easy one-press disposal for fast and easy emptying of the dust bin.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -398,7 +409,9 @@
         "e2d0f502-eb08-4d54-aace-7d7ab8c2730b",
         "510b76ef-9df0-41dc-b62d-521559730c56",
         "4bff166e-4334-4286-aaf8-9579317651b0",
-        "ca03bd00-7405-4710-a359-db642645aace"
+        "ca03bd00-7405-4710-a359-db642645aace",
+        "c048840b-13ff-4e7c-9d10-6f5491a93efa",
+        "cc96c940-4481-4f25-8a65-207b6b7cdc16"
       ],
       "settings": {
         "title": "Key Features",
