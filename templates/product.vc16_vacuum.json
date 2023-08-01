@@ -379,7 +379,7 @@
         "c048840b-13ff-4e7c-9d10-6f5491a93efa": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/VC16_Body_scented_bead_holder_silver.png",
+            "image": "shopify:\/\/shop_images\/VC16_Scented_Beads.png",
             "title": "",
             "text": "<p>Scented beads included for a more pleasant aroma.<\/p>",
             "link_label": "",
@@ -389,6 +389,7 @@
         "cc96c940-4481-4f25-8a65-207b6b7cdc16": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/VC16_One_Press_Disposal.png",
             "title": "",
             "text": "<p>Easy one-press disposal for fast and easy emptying of the dust bin.<\/p>",
             "link_label": "",
