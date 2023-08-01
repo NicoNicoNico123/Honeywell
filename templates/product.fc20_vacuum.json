@@ -577,6 +577,16 @@
             "link": ""
           }
         },
+        "7a508d5b-9f5b-4638-b6d8-0e932d0d484d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Charger.png",
+            "title": "",
+            "text": "<p>Charger <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "bdf5b48e-48c1-4c03-86a7-d5bf6e8b4778": {
           "type": "column",
           "settings": {
@@ -596,6 +606,24 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "cf3b65a2-a8fe-4946-9417-d69fb72b2955": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "6117154c-2693-4bcb-9d37-9cb656dace1b": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -606,8 +634,11 @@
         "6e3aa1f1-f561-4bb3-8b14-2cda62f257e3",
         "78bea8d2-4683-465b-86ee-1d876ac86b21",
         "0d0d399f-9604-41c9-9e64-8b5e9aea28e6",
+        "7a508d5b-9f5b-4638-b6d8-0e932d0d484d",
         "bdf5b48e-48c1-4c03-86a7-d5bf6e8b4778",
-        "b1788ba2-6401-4f05-9e9d-048b4ae162cc"
+        "b1788ba2-6401-4f05-9e9d-048b4ae162cc",
+        "cf3b65a2-a8fe-4946-9417-d69fb72b2955",
+        "6117154c-2693-4bcb-9d37-9cb656dace1b"
       ],
       "settings": {
         "title": "In the Box",
