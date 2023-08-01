@@ -441,9 +441,9 @@
             "heading": " Specifications",
             "icon": "none",
             "columns_desktop": 3,
-            "row_content_1": "<h4><strong>Type<\/strong> <\/h4><p>Cordless Floor Cleaner<\/p><h4><strong>Color <\/strong><\/h4><p>Graphite<\/p><h4>Voltage<\/h4><p>28.8V<\/p>",
-            "row_content_2": "<h4>Battery<\/h4><p>High Capacity Li-ion<\/p><h4>Running Time <\/h4><p>up to 35 minutes<\/p><h4>Charging Time <\/h4><p>~3-4 hours<\/p>",
-            "row_content_3": "<h4>Clean Water Tank Volume <\/h4><p>0.8L<\/p><h4>Dirty Water Tank Volume <\/h4><p>0.7L<\/p><h4>Certifications <\/h4><p>ETL\/cETL<\/p>"
+            "row_content_1": "<h4><strong>Type<\/strong> <\/h4><p>Cordless Floor Cleaner<\/p><h4><strong>Color <\/strong><\/h4><p>Graphite<\/p><h4>Voltage<\/h4><p>28.8V<\/p><h4>Battery<\/h4><p>High Capacity Li-ion<\/p>",
+            "row_content_2": "<h4>Motor<\/h4><p>Synchronized Digital Wet & Dry Motor<\/p><h4>Power<\/h4><p>-300W (250W Motor + 50W<br\/>Motorized Power Scrub Roller)<\/p><h4>Filter<\/h4><p>Wet & Dry Filter + Sponge<\/p><h4>LED Display<\/h4><p>Yes<\/p>",
+            "row_content_3": "<h4>Charging Time <\/h4><p>~3-4 hours<\/p><h4>Running Time <\/h4><p>up to 35 minutes<\/p><h4>Clean Water Tank Volume <\/h4><p>0.8L<\/p><h4>Dirty Water Tank Volume <\/h4><p>0.7L<\/p><h4>Certifications <\/h4><p>ETL\/cETL<\/p>"
           }
         },
         "82a64515-adb7-4300-86ca-7d420ab6e655": {
@@ -592,7 +592,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Two_2_Multi_Surface_Floor_Cleaner_Bottles.png",
             "title": "",
-            "text": "<p>Two  Multi Surface Floor Cleaner Bottles 480 mL each (960 mL Total)<\/p>",
+            "text": "<p>Two (2) Multi Surface Floor Cleaner Bottles 480 mL each (960 mL Total)<\/p>",
             "link_label": "",
             "link": ""
           }
