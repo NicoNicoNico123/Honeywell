@@ -15,13 +15,6 @@
           "settings": {
           }
         },
-        "d94f7ab7-cb77-4352-9270-081d4d2d9302": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.metafields.descriptors.subtitle.value }}",
-            "text_style": "body"
-          }
-        },
         "19c4612a-c131-4905-9ecf-ef3a89a84896": {
           "type": "price",
           "disabled": true,
@@ -102,7 +95,6 @@
       "block_order": [
         "vendor",
         "title",
-        "d94f7ab7-cb77-4352-9270-081d4d2d9302",
         "19c4612a-c131-4905-9ecf-ef3a89a84896",
         "af79ac76-f26c-4779-8ff9-8f3b170a7bcf",
         "92e65a59-4c0d-411f-8467-a5f46190573b",
