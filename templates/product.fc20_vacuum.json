@@ -331,7 +331,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/HONEYWELL_FC20_06.png",
             "title": "",
-            "text": "<p>Easy-Change, High-Capacity Battery Pack provides up to 35 minutes of run time*<br\/><\/p>",
+            "text": "<p>Easy-change, high-capacity battery pack provides up to 35 minutes of run time.*<br\/><\/p>",
             "link_label": "",
             "link": ""
           }
