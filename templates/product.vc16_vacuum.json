@@ -474,9 +474,9 @@
             "heading": " Specifications",
             "icon": "none",
             "columns_desktop": 3,
-            "row_content_1": "<h4><strong>Type<\/strong> <\/h4><p>Cordless Stick + Detachable Handheld<\/p><h4><strong>Color <\/strong><\/h4><p>Matte Black, Dark Silver<\/p><h4>Voltage<\/h4><p>25.2V<\/p><h4>Battery<\/h4><p>High Capacity Li-ion<\/p>",
+            "row_content_1": "<h4><strong>Type<\/strong> <\/h4><p>Cordless Stick + Detachable Handheld<\/p><h4><strong>Colors<\/strong><\/h4><p>Matte Black, Dark Silver<\/p><h4>Voltage<\/h4><p>25.2V<\/p><h4>Battery<\/h4><p>High Capacity Li-ion<\/p>",
             "row_content_2": "<h4>Motor<\/h4><p>Synchronized Digital Motor<\/p><h4>Power <\/h4><p>~600W<\/p><h4>Filter<\/h4><p>HEPA<\/p><h4>Air Watts (Suction)<\/h4><p>up to 185 AW<\/p><h4>Cyclone System<\/h4><p>Yes<\/p>",
-            "row_content_3": "<h4>LCD Display<\/h4><p>Yes<\/p><h4>Charging Time<\/h4><p>~4.5H+<\/p><h4>Running Time<\/h4><p>Eco: up to 60 min; Turbo Max: up to 10 min<\/p><h4>Dust Capacity<\/h4><p>~550 mL<\/p><h4>Certifications <\/h4><p>ETL\/cETL<\/p>"
+            "row_content_3": "<h4>LCD Display<\/h4><p>Yes<\/p><h4>Charging Time<\/h4><p>~4.5H+<\/p><h4>Running Time<\/h4><p>Eco: up to 60 min<\/p><p>Turbo Max: up to 10 min<\/p><h4>Dust Capacity<\/h4><p>~550 mL<\/p><h4>Certifications <\/h4><p>ETL\/cETL<\/p>"
           }
         },
         "82a64515-adb7-4300-86ca-7d420ab6e655": {
@@ -485,7 +485,7 @@
             "heading": "Details",
             "icon": "none",
             "columns_desktop": 1,
-            "row_content_1": "<p>• Handheld with eight tools for better, easier cleaning<br\/>• Lightweight, cordless design is easy to use and carry <br\/>around. Clean every corner effortlessly and conveniently<br\/>• 600W Synchronized Digital Motor up to 185AW. <br\/>Powerful Suction...Vacuum Faster & Cleaner!<br\/>• Innovative tangle-resistant design makes <br\/>vacuuming a little more enjoyable*<br\/>• Advanced cyclonic tank design combined with the HEPA <br\/>filter provides up to 99.9% dust and air separation<br\/>• ISC Technology provides superior self-cleaning<br\/>• Ergonomic Wellness Design<br\/>• Innovative bendable flex hose is designed to stay in place<br\/>• Easy-Change, High-Capacity Battery Pack<br\/>• Easy One-Press Disposal<br\/>• Easy One-Touch Control<br\/>• Natural Brite White LED Lights <br\/>• Motorized Patent Pending Rotary Brush<br\/>• Wall Dock<br\/>• BONUS 10 Scented bead refills and <br\/>2 HEPA filters included<\/p>",
+            "row_content_1": "<p>• Handheld with eight tools for better, easier cleaning<br\/>• Lightweight, cordless design is easy to use and carry <br\/>around. Clean every corner effortlessly and conveniently<br\/>• 600W Synchronized Digital Motor up to 185AW. Powerful Suction...Vacuum Faster & Cleaner!<br\/>• Innovative tangle-resistant design makes vacuuming a little more enjoyable*<br\/>• Advanced cyclonic tank design combined with the HEPA filter provides up to 99.9% dust and air separation<br\/>• ISC Technology provides superior self-cleaning<br\/>• Ergonomic Wellness Design<br\/>• Innovative bendable flex hose is designed to stay in place<br\/>• Easy-Change, High-Capacity Battery Pack<br\/>• Easy One-Press Disposal<br\/>• Easy One-Touch Control<br\/>• Natural Brite White LED Lights <br\/>• Motorized Patent Pending Rotary Brush<br\/>• Wall Dock<br\/>• BONUS 10 Scented bead refills and 2 HEPA filters included<\/p>",
             "row_content_2": "",
             "row_content_3": ""
           }
@@ -495,8 +495,8 @@
           "settings": {
             "heading": "Dimensions\/Weights",
             "icon": "none",
-            "columns_desktop": 3,
-            "row_content_1": "<p><strong>Product (W x D x H)<\/strong> ~9.8” x 9.9” x 44.1” (25 x 25.1 x 112 cm)<br\/><strong>Shipping (W x D x H)<\/strong> ~12.2” x 30.1” x 7.9”<br\/><strong>Net Product Weight (w\/o accessories)<\/strong> 6.6 lbs (3 kg)<br\/><strong>Shipping Weight (pkg)<\/strong> ~15.2 lbs<\/p>",
+            "columns_desktop": 1,
+            "row_content_1": "<p><strong>Product (W x D x H)<\/strong> 9.8” x 9.9” x 44.1” (25 x 25.1 x 112 cm)<br\/><strong>Shipping (W x D x H)<\/strong> 12.2” x 7.9” x 30.1”  (31 x 20 x 76.5 cm)<br\/><strong>Net Product Weight (w\/o accessories)<\/strong> 6.6 lbs (3 kg)<br\/><strong>Shipping Weight (pkg)<\/strong> 16 lbs  (7.3 kg)<\/p>",
             "row_content_2": "",
             "row_content_3": ""
           }
@@ -506,7 +506,7 @@
           "settings": {
             "heading": "Warranty\/UserManual",
             "icon": "none",
-            "columns_desktop": 3,
+            "columns_desktop": 1,
             "row_content_1": "<p><strong>LIMITED WARRANTY (USA & CANADA)<\/strong><br\/>Parts & Labor 2 years<\/p><p><a href=\"https:\/\/1drv.ms\/b\/s!AkAshu1YOYmckCRxUsKQjt4jygUt\" target=\"_blank\" title=\"Instruction manual\">Instruction manual<\/a><\/p>",
             "row_content_2": "",
             "row_content_3": ""
@@ -565,7 +565,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/HONEYWELL_VC16_22.png",
             "title": "",
-            "text": "<p>Tangle-Resistant Motorized <br\/>Hard Floor Friendly Soft <br\/>Roller<\/p>",
+            "text": "<p>Tangle-Resistant Motorized Hard Floor Friendly Soft Roller<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -575,7 +575,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/HONEYWELL_VC16_30.png",
             "title": "",
-            "text": "<p>Tangle-Resistant Motorized <br\/>Carpet Friendly Roller<\/p>",
+            "text": "<p>Tangle-Resistant Motorized Carpet Friendly Roller<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -605,7 +605,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/HONEYWELL_VC16_20.png",
             "title": "",
-            "text": "<p>Crevice Tube XL <br\/>(for use with #6)<\/p>",
+            "text": "<p>Crevice Tube XL <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -751,7 +751,7 @@
         "template--16647714996452__4fa12abf-b1ce-471e-998a-851be4572175-1671429038b3eefe6d-1": {
           "type": "text",
           "settings": {
-            "text": "<p>*Run time and Air Watts (AW) may vary based on usage, power mode, floor type, dust levels and\/or attachments\/tools being used. Design, features, content and specifications may vary by product and are subject to change without notice. Weights and measurements are approximate. Runtime may vary based on usage. Information for reference purposes only. Not responsible for typographical errors. Please refer to user manual for complete details. For residential use only.<\/p>"
+            "text": "<p>*Design, features, content and specifications may vary by product and are subject to change without notice. Weights and measurements are approximate. Runtime and Air Watts may vary based on usage. Tangle-resistant design may not work on all surfaces and\/or types of hair. Information for reference purposes only. Not responsible for typographical errors. Please refer to user manual for complete details. For residential use only.<\/p>"
           }
         }
       },
