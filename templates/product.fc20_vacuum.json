@@ -50,7 +50,7 @@
         "e820fecc-0059-401e-aa58-43ad16519310": {
           "type": "text",
           "settings": {
-            "text": "Introducing the Honeywell FC20 ULTAMAX PRO Cordless FloorCleaner. This 3-in-1 device vacuums, washes hard floors, and tackles quick carpet clean-ups. With a powerful synchronized digital wet and dry motor, motorized multi-surface power scrub soft roller, and efficient waste separation, it offers superior performance. Enjoy user-friendly features like the LED display, intelligent voice prompts, and Smart Auto Clean Mode. With a high-capacity battery and easy-charge base, maintenance is a breeze. Includes power scrub rollers, wet\/dry filters, and multi-surface floor cleaner for a complete cleaning solution.",
+            "text": "Introducing the Honeywell FC20 ULTAMAX PRO Cordless Floor Cleaner. This 3-in-1 device vacuums, washes hard floors, and tackles quick carpet clean-ups. With a powerful synchronized digital wet and dry motor, motorized multi-surface power scrub soft roller, and efficient waste separation, it offers superior performance. Enjoy user-friendly features like the LED display, intelligent voice prompts, and smart auto clean mode. With a high-capacity battery and easy-charge base, maintenance is a breeze. Includes power scrub rollers, wet\/dry filters, and multi-surface floor cleaner for a complete cleaning solution.",
             "text_style": "body"
           }
         },
@@ -281,7 +281,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Sprayer_04fcab75-822d-4af8-89ce-b10778a5873e.jpg",
             "title": "",
-            "text": "<p>Stainless Steel Spray Nozzle with high precision pump provides superior coverage of dirty areas.<\/p>",
+            "text": "<p>Stainless steel spray nozzle with high precision pump provides superior coverage of dirty areas.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -341,7 +341,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/FC20_floorcleaner.png",
             "title": "",
-            "text": "<p>Easy to Fill using water and Honeywell multi-surface floor cleaner for superior cleaning.<\/p>",
+            "text": "<p>Easy to fill using water and Honeywell multi-surface floor cleaner for superior cleaning.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -404,7 +404,7 @@
         "template--16560276144356__3b995f87-544a-4a04-951a-ebbcf9ffa94e-1670574871995f9045-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/HONEYWELL_FC20_Featured_Highlights.jpg",
+            "image": "shopify:\/\/shop_images\/HONEYWELL_FC20_Featured_Highlights.png",
             "title": "",
             "text": "",
             "link_label": "",
