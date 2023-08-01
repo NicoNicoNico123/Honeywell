@@ -252,7 +252,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/HONEYWELL_VC14_01.png",
             "title": "",
-            "text": "<p>Innovative 630W Synchronized Digital Motor up to 220AW Extreme Suction<\/p>",
+            "text": "<p>Synchronized 630W digital motor’s advanced technology designed to help deliver powerful suction up to 220 air watts and maximize energy efficiency.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -262,7 +262,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/HONEYWELL_VC14_02.png",
             "title": "",
-            "text": "<p>High-Capacity Battery Pack up to 70 minutes*<\/p>",
+            "text": "<p><strong>Easy-change, high-capacity battery pack<\/strong> provides up to 70 minutes of run time, and a premium charger for faster charging.*<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -272,7 +272,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/HONEYWELL_VC14_03.png",
             "title": "",
-            "text": "<p>Natural Brite White LED Lights on Soft Roller for Better Clarity<\/p>",
+            "text": "<p><strong>Natural brite white LED lights<\/strong> on motorized soft roller help provide better clarity when cleaning.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -282,7 +282,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/HONEYWELL_VC14_04.png",
             "title": "",
-            "text": "<p>Dual Pro High Efficiency Filter System helps capture dirt and allergens<\/p>",
+            "text": "<p><strong>Dual pro high-efficiency filter system <\/strong>with easy-to-clean inlet filter captures dirt, and a maintenance-free outlet filter helps capture allergens (up to 0.3μm dust removed).*<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -292,7 +292,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/HONEYWELL_VC14_05.png",
             "title": "",
-            "text": "<p>Tangle-resistant soft roller with brite white LED lights for hard floors<\/p>",
+            "text": "<p>Innovative <strong>tangle-resistant<\/strong> design makes vacuuming a little more enjoyable.*<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -302,7 +302,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/HONEYWELL_VC14_06.png",
             "title": "",
-            "text": "<p>Tangle-resistant carpet roller<\/p>",
+            "text": "<p>Lightweight, cordless design is easy to use and carry around. Clean every corner effortlessly and conveniently.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -312,7 +312,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/HONEYWELL_VC14_07.png",
             "title": "",
-            "text": "<p>Deluxe pet hair removal brush<\/p>",
+            "text": "<p>Easily clean pet hair with the <strong>deluxe pet hair removal brush<\/strong>.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -322,7 +322,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/HONEYWELL_VC14_09.png",
             "title": "",
-            "text": "<p>Deluxe 2-in-1 sofa brush<\/p>",
+            "text": "<p><strong>Deluxe 2-in-1 sofa brush<\/strong> is great for furniture!<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -332,7 +332,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/HONEYWELL_VC14_10.png",
             "title": "",
-            "text": "<p>Easy one-touch control with LED display<\/p>",
+            "text": "<p><strong>Easy one-touch control <\/strong>helps easily control the speed and power with a touch of the hand using the advanced LED display.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -342,7 +342,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/HONEYWELL_VC14_11.png",
             "title": "",
-            "text": "<p>Easy to charge and store wall dock<\/p>",
+            "text": "<p><strong>Wall mount docking station <\/strong>included makes it easy to store and charge your vacuum at the same time.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -352,7 +352,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/HONEYWELL_VC14_12.png",
             "title": "",
-            "text": "<p>Soft brush with bendable connector is great for hard-to-reach areas, under chairs, and more<\/p>",
+            "text": "<p>Soft brush with bendable connector is great for hard-to-reach areas, under chairs, and more!<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -362,7 +362,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/HONEYWELL_VC14_13.png",
             "title": "",
-            "text": "<p>Mini electric brush for mattresses, sofas, and stairs<\/p>",
+            "text": "<p>Mini electric brush for mattresses, sofas, and stairs for even greater versatility!<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -372,7 +372,27 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/HONEYWELL_VC14_14.png",
             "title": "",
-            "text": "<p>Easily clean with water<\/p>",
+            "text": "<p>Easily clean with water!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "5e77e382-7c2c-449f-93fd-2caf566f652a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HONEYWELL_VC14_08.png",
+            "title": "",
+            "text": "<p><strong>Deluxe 2-in-1 crevice tool<\/strong> is great for cars or any tight space!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a1d4a2ee-7f8c-40d4-ad54-d551873827b5": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/VC14_Lifestyle_4.jpg",
+            "title": "",
+            "text": "<p><strong>Smart auto clean mode <\/strong>provides power when you need it! Advanced technology helps optimize suction power to achieve efficient and convenient cleaning.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -391,7 +411,9 @@
         "e2d0f502-eb08-4d54-aace-7d7ab8c2730b",
         "510b76ef-9df0-41dc-b62d-521559730c56",
         "4bff166e-4334-4286-aaf8-9579317651b0",
-        "1c1b03cd-cb16-4c46-9229-bfcbacba89cd"
+        "1c1b03cd-cb16-4c46-9229-bfcbacba89cd",
+        "5e77e382-7c2c-449f-93fd-2caf566f652a",
+        "a1d4a2ee-7f8c-40d4-ad54-d551873827b5"
       ],
       "settings": {
         "title": "Key Features",
