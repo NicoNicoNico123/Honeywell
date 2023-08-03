@@ -11,8 +11,7 @@
     "product-grid": {
       "type": "main-collection-product-grid",
       "custom_css": [
-        ".price__container {display: none;}",
-        ".card__badge bottom{display: none;}"
+        ".price__container {display: none;}"
       ],
       "settings": {
         "products_per_page": 16,
